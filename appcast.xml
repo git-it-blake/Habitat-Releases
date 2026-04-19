@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Habitat</title>
+        <item>
+            <title>Habitat Version 0.1</title>
+            <pubDate>Sun, 19 Apr 2026 15:37:15 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/git-it-blake/Habitat-Releases/main/Habitat%200.1.dmg" length="57326846" type="application/octet-stream" sparkle:edSignature="LYs6/Q3f+bqnZ4vMDeNna2jcRAey5m7vuNHTz2UrIgojv6F1BNe5csw4K6i1difg8kJB7khh80yDGINxIjMTBg=="/>
+        </item>
+    </channel>
+</rss>
