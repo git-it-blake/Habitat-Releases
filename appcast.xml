@@ -3,14 +3,14 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>Habitat Version0.1 Beta 2</title>
-            <pubDate>Mon, 20 Apr 2026 17:04:37 -0400</pubDate>
-            <sparkle:version>2</sparkle:version>
+            <title>0.1</title>
+            <pubDate>Tue, 21 Apr 2026 11:24:24 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/git-it-blake/Habitat-Releases/main/Habitat%200.1.dmg" length="57557766" type="application/octet-stream" sparkle:edSignature="jPVlFkReSdzwRFRgRQYDuzV2yGyEIlwckCvNDxCUZYJGoUq8eB2EeKinbttAQJTJCLyp/bgB3F86ISOTFI9nCQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/git-it-blake/Habitat-Releases/main/Habitat.dmg" length="57555320" type="application/octet-stream" sparkle:edSignature="eTkcTenGYdfoVS3CArNo20ukzCCy+JwaU1GU/EJId38uNpHO0cRkgYu0WuKnd2wg4O3sSr6UEsInBvhCKDEQAQ=="/>
             <description><![CDATA[
-              <h1>Build v0.1</h1>
+              <h1>Habitat Version v0.1</h1>
               <h4>What's New & Improved</h4>
               <ul>
                   <li>Improved: Menubar icon functionality.</li>
