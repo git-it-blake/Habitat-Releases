@@ -4,20 +4,23 @@
         <title>Habitat</title>
         <item>
             <title>0.1</title>
-            <pubDate>Tue, 21 Apr 2026 11:24:24 -0400</pubDate>
-            <sparkle:version>3</sparkle:version>
+            <pubDate>Wed, 22 Apr 2026 12:27:46 -0400</pubDate>
+            <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/git-it-blake/Habitat-Releases/main/Habitat.dmg" length="57555320" type="application/octet-stream" sparkle:edSignature="eTkcTenGYdfoVS3CArNo20ukzCCy+JwaU1GU/EJId38uNpHO0cRkgYu0WuKnd2wg4O3sSr6UEsInBvhCKDEQAQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/git-it-blake/Habitat-Releases/main/Habitat.dmg" length="57569660" type="application/octet-stream" sparkle:edSignature="TPp7KCaJG4rZ5qQ8wH1tYm4eSw5+lpKTJ3YPxJvxmEPlgUm4Hn5uP8koTx8+5iIsDU1GnqJF4gXohdQXS7gUAQ=="/>
             <description><![CDATA[
-              <h1>Habitat Version v0.1</h1>
+              <h1>Habitat Version v0.1 Beta 2</h1>
               <h4>What's New & Improved</h4>
               <ul>
-                  <li>Improved: Menubar icon functionality.</li>
-                  <li>Improved: Hover states throughout Habitat.</li>
-                  <li>Fixed: Too many things to count.</li>
+                  <li>Added: License deactivation logic for pro users (hover over pro in settings).</li>
+                  <li>Improved: Spaces and mission control movements with mice.</li>
+                  <li>Improved: Shifted settings page up.</li>
+                  <li>Fixed: Trackpad gestures working on desktop below menubar. [Squeak]</li>
+                  <li>Fixed: Menubar positioning shifting on every launch.</li>
+                  <li>Fixed: Not being able to paste with command+v for the license key. </li>
               </ul>
-              <p>More tools and fixes to come.<br>
+              <p>More to come.<br>
               — Thanks for all the feedback!</p>
             ]]></description>
           </item>
