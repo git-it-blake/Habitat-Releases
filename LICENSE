@@ -1,0 +1,33 @@
+# Habitat License
+
+Copyright (c) 2026 Blake Baker. All rights reserved.
+
+## Proprietary Software License
+
+By downloading, installing, or using the **Habitat** application ("the Software"), you agree to be bound by the terms of this license.
+
+### 1. Ownership
+The Software, including all code, assets, and documentation, is the exclusive property of Blake Baker ("the Author") and is protected by copyright laws and international treaties.
+
+### 2. Grant of License
+The Author hereby grants you a non-exclusive, non-transferable license to use the Software for personal, non-commercial purposes. 
+
+### 3. Restrictions
+You may not:
+- Reverse engineer, decompile, or disassemble the Software.
+- Modify, adapt, or create derivative works based on the Software.
+- Redistribute, sell, lease, or sublicense the Software to any third party without express written permission from the Author.
+- Remove or alter any copyright notices or branding from the Software.
+
+### 4. Distribution on GitHub
+This license explicitly allows the Software to be hosted on GitHub for the purpose of distributing official releases and collecting feedback via Issues. Users are permitted to download the compiled binaries and use the Software as described in Section 2.
+
+### 5. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### 6. Termination
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any of its terms.
+
+---
+
+For inquiries regarding commercial use or licensing, please contact the Author or view the README.
