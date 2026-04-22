@@ -4,11 +4,11 @@
         <title>Habitat</title>
         <item>
             <title>0.1</title>
-            <pubDate>Wed, 22 Apr 2026 12:27:46 -0400</pubDate>
+            <pubDate>Wed, 22 Apr 2026 12:50:51 -0400</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/git-it-blake/Habitat-Releases/main/Habitat.dmg" length="57569660" type="application/octet-stream" sparkle:edSignature="TPp7KCaJG4rZ5qQ8wH1tYm4eSw5+lpKTJ3YPxJvxmEPlgUm4Hn5uP8koTx8+5iIsDU1GnqJF4gXohdQXS7gUAQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/git-it-blake/Habitat-Releases/main/Habitat%200.1-Beta%202.dmg" length="57569676" type="application/octet-stream" sparkle:edSignature="85ECOnn6W14oczuRNrY4b/VYpqnan2CLm+TnerjRQbeDP6Sp0xm4OwKute4GgfGLT1il3rl7ipfuhMVO0NG7Aw=="/>
             <description><![CDATA[
               <h1>Habitat Version v0.1 Beta 2</h1>
               <h4>What's New & Improved</h4>
