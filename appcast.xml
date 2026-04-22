@@ -4,11 +4,11 @@
         <title>Habitat</title>
         <item>
             <title>0.1</title>
-            <pubDate>Wed, 22 Apr 2026 12:50:51 -0400</pubDate>
-            <sparkle:version>4</sparkle:version>
+            <pubDate>Wed, 22 Apr 2026 16:06:24 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_2/Habitat.dmg" length="57569676" type="application/octet-stream" sparkle:edSignature="85ECOnn6W14oczuRNrY4b/VYpqnan2CLm+TnerjRQbeDP6Sp0xm4OwKute4GgfGLT1il3rl7ipfuhMVO0NG7Aw=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_2/Habitat.dmg" length="57606799" type="application/octet-stream" sparkle:edSignature="AfpD3tUTvgKKqZaBTFGBRTvbht/2MJCB5wwkRIPRQPobzxue6LlVbnPO5l83jYfcNH2oXyUnJy8zWcC6Ivj1Dg=="/>
             <description><![CDATA[
               <h1>Habitat Version v0.1 Beta 2</h1>
               <h4>What's New & Improved</h4>
@@ -17,6 +17,7 @@
                   <li>Improved: Spaces and mission control movements with mice.</li>
                   <li>Improved: Shifted settings page up.</li>
                   <li>Fixed: Trackpad gestures working on desktop below menubar. [Squeak]</li>
+                  <li>Fixed: Virus-Scan not owkring.</li>
                   <li>Fixed: Menubar positioning shifting on every launch.</li>
                   <li>Fixed: Not being able to paste with command+v for the license key. </li>
               </ul>
