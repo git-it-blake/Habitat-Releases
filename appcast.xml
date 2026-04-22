@@ -17,7 +17,7 @@
                   <li>Improved: Spaces and mission control movements with mice.</li>
                   <li>Improved: Shifted settings page up.</li>
                   <li>Fixed: Trackpad gestures working on desktop below menubar. [Squeak]</li>
-                  <li>Fixed: Virus-Scan not owkring.</li>
+                  <li>Fixed: Virus-Scan not working.</li>
                   <li>Fixed: Menubar positioning shifting on every launch.</li>
                   <li>Fixed: Not being able to paste with command+v for the license key. </li>
               </ul>
