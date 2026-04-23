@@ -16,6 +16,54 @@
 
 **Habitat** is a native macOS utility suite that brings together the everyday tools you need to manage, optimize, and protect your Mac — all inside a single, beautifully designed app. No Electron. No subscriptions. Just a fast, lightweight SwiftUI app that lives in your Dock and menu bar.
 
+## Screenshots
+
+The main window, in-app settings, and a quick look at each tool (two columns to keep the README shorter):
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <b>Home</b><br/>
+      <img src="screenshots/habitat-home.png" alt="Habitat home screen with featured Chomp hero and tool cards" width="100%"/>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <b>Chomp — Cleaner</b><br/>
+      <img src="screenshots/chomp-cleaner.png" alt="Chomp Cleaner tab with selected apps and related files for removal" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <b>Spark — Battery</b><br/>
+      <img src="screenshots/spark-battery.png" alt="Spark Battery tab with charge ring, specs, power modes, and 24-hour graphs" width="100%"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Squeak — Trackpad gestures</b><br/>
+      <img src="screenshots/squeak-trackpad-gestures.png" alt="Squeak Trackpad Gestures settings for title-bar window management" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <b>Hoo — Watch (live map)</b><br/>
+      <img src="screenshots/hoo-watch.png" alt="Hoo Watch mode with geolocated connections on a world map and side summaries" width="100%"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Boa — File compression</b><br/>
+      <img src="screenshots/boa-compression.png" alt="Boa File Compression with queue, preview, and zip options" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <b>Echo — Clipboard history</b><br/>
+      <img src="screenshots/echo-clipboard.png" alt="Echo History view with categories, search, and media preview" width="100%"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Settings</b><br/>
+      <img src="screenshots/habitat-settings.png" alt="Habitat Settings with version, resources, startup and menu bar toggles, accessibility status, and license" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+You can also explore the live interactive demo on the [Habitat website](https://habitatforyourmac.com).
 
 ## Tools
 
@@ -53,7 +101,7 @@ Habitat integrates with the macOS menu bar without getting in the way:
 
 - 🆓 **14-day full trial** — Every Pro tool is unlocked during the trial. Trial time is counted as **active runtime**, not wall-clock: if you close Habitat for a week, the trial doesn't tick down.
 - 🆓 **Chomp is always free** — Cleanup, Space Lens, and the window-aware quitter work forever without a license.
-- 💳 **$6.99 one-time ...nice (https://dodo.pe/hatitat-pro)** — Lifetime access, no subscriptions. Trial expiry never deletes your data; Chomp keeps working, and the other tools can be reactivated any time by entering a key.
+- 💳 **$6.99 one-time via [DodoPayments](https://dodo.pe/hatitat-pro)** — Lifetime access, no subscriptions. Trial expiry never deletes your data; Chomp keeps working, and the other tools can be reactivated any time by entering a key.
 - 🔁 **Self-service deactivation** — Free up a license seat from **Settings → License → PRO** so you can move Habitat to another Mac.
 
 ## Privacy
@@ -81,14 +129,6 @@ Habitat integrates with the macOS menu bar without getting in the way:
 3. On first launch, macOS will prompt for access in **System Settings → Privacy & Security → Accessibility** (and optionally **Input Monitoring** / **Automation** depending on which tools you enable).
 
 Habitat ships with [Sparkle](https://sparkle-project.org) for automatic updates — you can also trigger a check manually from **Habitat → Check for Updates** (menu bar) or **Settings → Check for Updates** (in-app).
-
-## Screenshots
-
-<!-- Screenshots will be added here -->
-
-*Coming soon — screenshots and demo videos showcasing each tool.*
-
-You can also explore the live interactive demo on the [Habitat website](https://habitatforyourmac.com).
 
 ## Support
 
