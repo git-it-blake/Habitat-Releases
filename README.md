@@ -18,7 +18,6 @@
 
 ## Screenshots
 
-The main window, in-app settings, and a quick look at each tool (two columns to keep the README shorter):
 
 <table>
   <tr>
