@@ -36,7 +36,7 @@
       <img src="screenshots/spark-battery.png" alt="Spark Battery tab with charge ring, specs, power modes, and 24-hour graphs" width="100%"/>
     </td>
     <td align="center" valign="top">
-      <b>Squeak — Trackpad gestures</b><br/>
+      <b>Squeak — Gestures</b><br/>
       <img src="screenshots/squeak-trackpad-gestures.png" alt="Squeak Trackpad Gestures settings for title-bar window management" width="100%"/>
     </td>
   </tr>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center" valign="top">
-      <b>Echo — Clipboard history</b><br/>
+      <b>Echo — Clipboard</b><br/>
       <img src="screenshots/echo-clipboard.png" alt="Echo History view with categories, search, and media preview" width="100%"/>
     </td>
     <td align="center" valign="top">
