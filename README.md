@@ -63,7 +63,6 @@ The main window, in-app settings, and a quick look at each tool (two columns to 
   </tr>
 </table>
 
-You can also explore the live interactive demo on the [Habitat website](https://habitatforyourmac.com).
 
 ## Tools
 
