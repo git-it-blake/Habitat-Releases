@@ -14,11 +14,11 @@
               <h4>What's New & Improved</h4>
               <ul>
                   <li>Improved: 4 finger tap reliability.</li>
+                  <li>Working on: Boa virus scanner not properly working.</li>
                   <li>Added: Button hover states for license activation steps.</li>
                   <li>Added: Dark mode forced theme. Might work on a light mode later.</li>
                   <li>Fixed: Toggles not sliding properly in settings.</li>
                   <li>Fixed: Information i’s showing popup behind menubar inside tools menus.</li>
-                  <li>Fixed: Boa virus scanner not properly working.</li>
                   <li>Fixed: Squeak default mouse functions if mouse button isn’t bound in squeak.</li>
                   <li>Fixed: Hoo map zooming in every time an endpoint was clicked or cleared.</li>
                   <li>Fixed: Tool icon sizes on intro description page.</li>
