@@ -3,28 +3,22 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.1 Beta 4</title>
-            <pubDate>Tue, 28 Apr 2026 13:43:15 -0400</pubDate>
-            <sparkle:version>7</sparkle:version>
+            <title>0.1 Beta 5</title>
+            <pubDate>Wed, 29 Apr 2026 15:54:18 -0400</pubDate>
+            <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_4/Habitat.dmg" length="57841662" type="application/octet-stream" sparkle:edSignature="MSitInYbU+7XDDs4Moel2DqFi7il1hoKwJIZPrVgwCsDgd6gd15crESl+zoO0UCRkbXYeUbDZMf7Zgb3keU0BA=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_5/Habitat.dmg" length="78893749" type="application/octet-stream" sparkle:edSignature="wVlADGImBnaue/5hNpSYXoGWUUhUwP8MnH+mT8an3nRAxkKCo+oa4IREd+2RtHhCBYSf5wHQvwlEo99zryUbAA=="/>
             <description><![CDATA[
-              <h1>Habitat Version 0.1 Beta 4</h1>
+              <h1>Habitat Version 0.1 Beta 5</h1>
               <h4>What's New & Improved</h4>
               <ul>
-                  <li>Improved: 4 finger tap reliability.</li>
-                  <li>Working on: Boa virus scanner not properly working.</li>
-                  <li>Added: Button hover states for license activation steps.</li>
-                  <li>Added: Dark mode forced theme. Might work on a light mode later.</li>
-                  <li>Fixed: Toggles not sliding properly in settings.</li>
-                  <li>Fixed: Information i’s showing popup behind menubar inside tools menus.</li>
-                  <li>Fixed: Squeak default mouse functions if mouse button isn’t bound in squeak.</li>
-                  <li>Fixed: Hoo map zooming in every time an endpoint was clicked or cleared.</li>
-                  <li>Fixed: Tool icon sizes on intro description page.</li>
+                  <li>Improved: System load and performance lags (still working on this more).</li>
+                  <li>Added: Stricter rules to not have initial setup screens show ever launch.</li>
+                  <li>Fixed: (hopefully) The Boa Virus scan.</li>
               </ul>
               <p>More to come.<br>
-              — Thank you for all the support feedback!</p>
+              — Thank you for all the support & feedback!</p>
             ]]></description>
           </item>
         </channel>
