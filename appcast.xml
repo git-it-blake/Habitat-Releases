@@ -3,18 +3,17 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.1 Beta 5</title>
-            <pubDate>Wed, 29 Apr 2026 15:54:18 -0400</pubDate>
-            <sparkle:version>8</sparkle:version>
+            <title>0.1 Beta 6</title>
+            <pubDate>Wed, 29 Apr 2026 18:25:27 -0400</pubDate>
+            <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_5/Habitat.dmg" length="78893749" type="application/octet-stream" sparkle:edSignature="wVlADGImBnaue/5hNpSYXoGWUUhUwP8MnH+mT8an3nRAxkKCo+oa4IREd+2RtHhCBYSf5wHQvwlEo99zryUbAA=="/>
+            <enclosure url="https://raw.githubusercontent.com/git-it-blake/Habitat-Releases/main/Habitat.dmg" length="78902679" type="application/octet-stream" sparkle:edSignature="WipYUkTgcas6vj1WYFe1IIEGMrwtocrWpsE6QcrrAO4gsLzw4iZEZnYmO7Ts4OxW9QDLMk1ByUqrn+tPcvUNAQ=="/>
             <description><![CDATA[
-              <h1>Habitat Version 0.1 Beta 5</h1>
+              <h1>Habitat Version 0.1 Beta 6</h1>
               <h4>What's New & Improved</h4>
               <ul>
-                  <li>Improved: System load and performance lags (still working on this more).</li>
-                  <li>Fixed: (hopefully) The Boa Virus scan.</li>
+                <li>Fixed: Squeak trackpad gestures breaking after navigating mac spaces...sorry about that one.</li>
               </ul>
               <p>More to come.<br>
               — Thank you for all the support & feedback!</p>
