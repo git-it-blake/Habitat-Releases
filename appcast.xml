@@ -3,17 +3,19 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.1 Beta 6</title>
-            <pubDate>Wed, 29 Apr 2026 18:25:27 -0400</pubDate>
-            <sparkle:version>9</sparkle:version>
+            <title>0.1 Beta 7</title>
+            <pubDate>Wed, 29 Apr 2026 20:18:52 -0400</pubDate>
+            <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_6/Habitat.dmg" length="78902679" type="application/octet-stream" sparkle:edSignature="WipYUkTgcas6vj1WYFe1IIEGMrwtocrWpsE6QcrrAO4gsLzw4iZEZnYmO7Ts4OxW9QDLMk1ByUqrn+tPcvUNAQ=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_7/Habitat.dmg" length="78909579" type="application/octet-stream" sparkle:edSignature="x8LQ1d7zdMQSHnp1ZAd+IzVk30U53KtwTvHTLlrEUx+J06T8pAKnyHFD2vntzPEEolVFTwXzMbiyZg5TvytbAQ=="/>
             <description><![CDATA[
-              <h1>Habitat Version 0.1 Beta 6</h1>
+              <h1>Habitat Version 0.1 Beta 7</h1>
               <h4>What's New & Improved</h4>
               <ul>
-                <li>Fixed: Squeak trackpad gestures breaking after navigating mac spaces...sorry about that one.</li>
+                <li>Fixed: Window aware app quitter not working in Chomp unless going into it.</li>
+                <li>Fixed: Echo menubar toggles not showing inside the Habitat app until a couple seconds pass.</li>
+                <li>Fixed: (for real this time) Boa Virus Scanner.</li>
               </ul>
               <p>More to come.<br>
               — Thank you for all the support & feedback!</p>
