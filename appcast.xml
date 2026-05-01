@@ -3,19 +3,21 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.1 Beta 7</title>
-            <pubDate>Wed, 29 Apr 2026 20:18:52 -0400</pubDate>
-            <sparkle:version>10</sparkle:version>
+            <title>0.1 Beta 8</title>
+            <pubDate>Fri, 01 May 2026 11:58:03 -0400</pubDate>
+            <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_7/Habitat.dmg" length="78909579" type="application/octet-stream" sparkle:edSignature="x8LQ1d7zdMQSHnp1ZAd+IzVk30U53KtwTvHTLlrEUx+J06T8pAKnyHFD2vntzPEEolVFTwXzMbiyZg5TvytbAQ=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_8/Habitat.dmg" length="32715407" type="application/octet-stream" sparkle:edSignature="k+JAyNa5xVl0NoKHzMTxHBzQOrSlAkOHqe+mdkNxb4hFM9vaNFY5AyMORU0gBJiAYmW28cARCkgTlt0RBT4oAw=="/>
             <description><![CDATA[
-              <h1>Habitat Version 0.1 Beta 7</h1>
+              <h1>Habitat Version 0.1 Beta 8</h1>
               <h4>What's New & Improved</h4>
               <ul>
-                <li>Fixed: Window aware app quitter not working in Chomp unless going into it.</li>
-                <li>Fixed: Echo menubar toggles not showing inside the Habitat app until a couple seconds pass.</li>
-                <li>Fixed: (for real this time) Boa Virus Scanner.</li>
+                <li>Introducing the new tool: Shadow. The Nook & Biscuits. Right now, only the notch nook is working, Biscuits tool is still in development, mostly because I’m not fully certain what I want it to be yet and am testing ideas.</li>
+                <li>Improved: Reduced app file size dramatically compared to previous beta</li>
+                <li>Improved: System load & Performance. Slightly. I wont know until more people are able to provide feedback.</li>
+                <li>Added: Archive Inspector. New section in Boa to review and inspect files for potential archive risks.</li>
+                <li>Removed: Virus scanner. Unfortunately I don’t have enough knowledge about virus scanning and keeping up with it to maintain it long term well enough to be reliable. This one turned out to be too ambitious for me.</li>
               </ul>
               <p>More to come.<br>
               — Thank you for all the support & feedback!</p>
