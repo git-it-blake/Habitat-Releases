@@ -36,7 +36,7 @@
       <img src="screenshots/spark-battery.png" alt="Spark Battery tab with charge ring, specs, power modes, and 24-hour graphs" width="100%"/>
     </td>
     <td align="center" valign="top">
-      <b>Squeak — Gestures</b><br/>
+      <b>Squeak — Trackpad gestures</b><br/>
       <img src="screenshots/squeak-trackpad-gestures.png" alt="Squeak Trackpad Gestures settings for title-bar window management" width="100%"/>
     </td>
   </tr>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center" valign="top">
-      <b>Echo — Clipboard</b><br/>
+      <b>Echo — Clipboard history</b><br/>
       <img src="screenshots/echo-clipboard.png" alt="Echo History view with categories, search, and media preview" width="100%"/>
     </td>
     <td align="center" valign="top">
@@ -69,11 +69,11 @@ Habitat is organized into six purpose-built tools, each named after an animal or
 
 | Tool | Role | What It Does |
 |------|------|--------------|
-| **Chomp** 🦈 | Cleaner · Scanner · Quitter | Disk cleanup, **Space Lens** storage visualization, local virus scanning, and an intelligent app quitter that auto-terminates apps when their last window closes. |
+| **Chomp** 🦈 | Cleaner · Storage Map · Quitter | Disk cleanup, **Space Lens** storage visualization, and an intelligent app quitter that auto-terminates apps when their last window closes. |
 | **Spark** ⚡ | Battery Manager | Real-time battery health dashboard, charge-history charts, power-adapter stats, per-app energy tracking, and a menu-bar battery indicator with configurable icons. |
 | **Squeak** 🐭 | Mouse & Cursor Tools | Per-mouse profile settings, scroll speed & direction control, pointer acceleration curves, custom button mappings, and **mouse gestures** (Spaces & Mission Control, Scroll & Navigate). |
 | **Hoo** 🦉 | Network Security | Live outgoing-connection monitor with IP geolocation mapping, per-app bandwidth, DNS resolver tools, and a world-map view of where your Mac is talking to. |
-| **Boa** 🐍 | Compress & Scan | File compression (ZIP / TAR), and local directory scanning utilities. |
+| **Boa** 🐍 | Compress & Inspect | File compression (ZIP / TAR), archive previews, integrity checks, and risky-archive structure warnings. |
 | **Echo** 🦜 | Clipboard Manager | Persistent clipboard history with search, pinning, per-app exclusions, and one-click paste — never lose a copied snippet again. |
 
 ## System-Wide Features
@@ -99,7 +99,7 @@ Habitat integrates with the macOS menu bar without getting in the way:
 
 - 🆓 **14-day full trial** — Every Pro tool is unlocked during the trial. Trial time is counted as **active runtime**, not wall-clock: if you close Habitat for a week, the trial doesn't tick down.
 - 🆓 **Chomp is always free** — Cleanup, Space Lens, and the window-aware quitter work forever without a license.
-- 💳 **$6.99 ...nice, one-time payment — Lifetime access, no subscriptions. Trial expiry never deletes your data; Chomp keeps working, and the other tools can be reactivated any time by entering a key.
+- 💳 **$6.99 one-time via [DodoPayments](https://dodo.pe/hatitat-pro)** — Lifetime access, no subscriptions. Trial expiry never deletes your data; Chomp keeps working, and the other tools can be reactivated any time by entering a key.
 - 🔁 **Self-service deactivation** — Free up a license seat from **Settings → License → PRO** so you can move Habitat to another Mac.
 
 ## Privacy
@@ -144,7 +144,7 @@ Found a bug or have a feature request? Open an [Issue](../../issues) or use the 
 
 ## Acknowledgements
 
-Habitat is a labor of love for the macOS ecosystem. While the project is original and all code in this app is written from scratch, the spirit and direction of individual tools were **inspired** by the incredible work of the independent macOS developer community — in particular the attention to detail that apps have brought to their respective domains.
+The spirit and direction of individual tools were **inspired** by the incredible work of the independent macOS developer community — in particular the attention to detail that apps have brought to their respective domains.
 
 ---
 
