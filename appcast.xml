@@ -3,21 +3,25 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.1 Beta 8</title>
-            <pubDate>Fri, 01 May 2026 11:58:03 -0400</pubDate>
-            <sparkle:version>11</sparkle:version>
+            <title>0.1 Beta 9</title>
+            <pubDate>Sat, 02 May 2026 18:10:18 -0400</pubDate>
+            <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_8/Habitat.dmg" length="32715407" type="application/octet-stream" sparkle:edSignature="k+JAyNa5xVl0NoKHzMTxHBzQOrSlAkOHqe+mdkNxb4hFM9vaNFY5AyMORU0gBJiAYmW28cARCkgTlt0RBT4oAw=="/>
+            <enclosure url="https://raw.githubusercontent.com/git-it-blake/Habitat-Releases/main/Habitat.dmg" length="32742819" type="application/octet-stream" sparkle:edSignature="TAAAanbXc1MS/wTDuXd0/jhl3s8t0KeSPnlkMLj1FsCY4MHSRmHpersP8gH1ksl3+N0Qcv5w09s9A2Up9XsSDA=="/>
             <description><![CDATA[
-              <h1>Habitat Version 0.1 Beta 8</h1>
+              <h1>Habitat Version 0.1 Beta 9</h1>
               <h4>What's New & Improved</h4>
               <ul>
-                <li>Introducing the new tool: Shadow. The Nook & Biscuits. Right now, only the notch nook is working, Biscuits tool is still in development, mostly because I’m not fully certain what I want it to be yet and am testing ideas.</li>
-                <li>Improved: Reduced app file size dramatically compared to previous beta</li>
-                <li>Improved: System load & Performance. Slightly. I wont know until more people are able to provide feedback.</li>
-                <li>Added: Archive Inspector. New section in Boa to review and inspect files for potential archive risks.</li>
-                <li>Removed: Virus scanner. Unfortunately I don’t have enough knowledge about virus scanning and keeping up with it to maintain it long term well enough to be reliable. This one turned out to be too ambitious for me.</li>
+                <li>Improved: System load and performance issues for older generation M series chips.</li>
+                <li>Improved: Removed amount of dividers in the spark menubar battery statistics.</li>
+                <li>Added: Low power mode indicator to battery menubar icon.</li>
+                <li>Added: Height adjustment to nook so users can adjust the look to their liking around the notch.</li>
+                <li>Fixed: The nook popping up repeatedly if cursor was left on the notch.</li>
+                <li>Fixed: Camera permission breaking for some users in The Nook.</li>
+                <li>Fixed: Safari trackpad reversed scroll direction issue.</li>
+                <li>Fixed: Some apps not working with unminimize gesture when in dock.</li>
+                <li>Fixed: Window snapping reset config after gesture performed on window and then grabbing title bar.</li>
               </ul>
               <p>More to come.<br>
               — Thank you for all the support & feedback!</p>
