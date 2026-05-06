@@ -65,7 +65,7 @@
 
 ## Tools
 
-Habitat is organized into six purpose-built tools, each named after an animal or element that reflects its personality:
+Habitat is organized into seven purpose-built tools, each named after an animal or element that reflects its personality:
 
 | Tool | Role | What It Does |
 |------|------|--------------|
@@ -75,6 +75,7 @@ Habitat is organized into six purpose-built tools, each named after an animal or
 | **Hoo** 🦉 | Network Security | Live outgoing-connection monitor with IP geolocation mapping, per-app bandwidth, DNS resolver tools, and a world-map view of where your Mac is talking to. |
 | **Boa** 🐍 | Compress & Inspect | File compression (ZIP / TAR), archive previews, integrity checks, and risky-archive structure warnings. |
 | **Echo** 🦜 | Clipboard Manager | Persistent clipboard history with search, pinning, per-app exclusions, and one-click paste — never lose a copied snippet again. |
+| **Shadow** 🌙 | Notch Tools & Screen Breaks | Hover/click shelf around the Mac notch (Now Playing, quick actions, camera mirror, file shelf) — plus **Biscuits** full-screen rest breaks on a timer, with menu-bar integration. |
 
 ## System-Wide Features
 
