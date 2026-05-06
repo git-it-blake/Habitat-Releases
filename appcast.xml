@@ -3,24 +3,18 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.1 Beta 10</title>
-            <pubDate>Wed, 06 May 2026 00:13:30 -0400</pubDate>
-            <sparkle:version>14</sparkle:version>
+            <title>0.1 Beta 11</title>
+            <pubDate>Wed, 06 May 2026 11:38:25 -0400</pubDate>
+            <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_10/Habitat.dmg" length="32936443" type="application/octet-stream" sparkle:edSignature="FYfFUX4QCDulBFzrIjKlNUwPJ1KDZmG0J7LikGqJfNFxKHnVP2zNN1qgWDlkDaQusTKTRvRWYQuL4yucJXv0CQ=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_11/Habitat.dmg" length="32941038" type="application/octet-stream" sparkle:edSignature="PvnCOgC30lwaW2BHjSg+HMfuYuQYqyhJIXm5TaDxHPaBhsn7mxgQVg8KKUAI4g1JIslSrpiZyyH6J9SWtk5aAQ=="/>
             <description><![CDATA[
-              <h1>Habitat Version 0.1 Beta 10</h1>
+              <h1>Habitat Version 0.1 Beta 11</h1>
               <h4>What's New & Improved</h4>
               <ul>
                 <li>Improved: More system load and performance issues.</li>
-                <li>Added: BISCUITS! New section in Shadow which works as a screen tool to take a break.</li>
-                <li>Added: Shadow Guide.</li>
-                <li>Fixed: Cursor Jiggler not working on launch.</li>
-                <li>Fixed: Easter egg up a little. shhh its still a secret!</li>
-                <li>Fixed: Camera permission breaking for some users in The Nook.</li>
-                <li>Fixed: Self quit gesture affecting Habitat.</li>
-                <li>Fixed: Battery menubar icon not refreshing.</li>
+                <li>Fixed: Fixed: Animation glitch with nook.</li>
               </ul>
               <p>More to come.<br>
               — Thank you for all the support & feedback!</p>
