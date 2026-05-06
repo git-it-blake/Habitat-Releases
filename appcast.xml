@@ -3,25 +3,24 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.1 Beta 9</title>
-            <pubDate>Sat, 02 May 2026 18:10:18 -0400</pubDate>
-            <sparkle:version>13</sparkle:version>
+            <title>0.1 Beta 10</title>
+            <pubDate>Wed, 06 May 2026 00:13:30 -0400</pubDate>
+            <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_9/Habitat.dmg" length="32742819" type="application/octet-stream" sparkle:edSignature="TAAAanbXc1MS/wTDuXd0/jhl3s8t0KeSPnlkMLj1FsCY4MHSRmHpersP8gH1ksl3+N0Qcv5w09s9A2Up9XsSDA=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_10/Habitat.dmg" length="32936443" type="application/octet-stream" sparkle:edSignature="FYfFUX4QCDulBFzrIjKlNUwPJ1KDZmG0J7LikGqJfNFxKHnVP2zNN1qgWDlkDaQusTKTRvRWYQuL4yucJXv0CQ=="/>
             <description><![CDATA[
-              <h1>Habitat Version 0.1 Beta 9</h1>
+              <h1>Habitat Version 0.1 Beta 10</h1>
               <h4>What's New & Improved</h4>
               <ul>
-                <li>Improved: System load and performance issues for older generation M series chips.</li>
-                <li>Improved: Removed amount of dividers in the spark menubar battery statistics.</li>
-                <li>Added: Low power mode indicator to battery menubar icon.</li>
-                <li>Added: Height adjustment to nook so users can adjust the look to their liking around the notch.</li>
-                <li>Fixed: The nook popping up repeatedly if cursor was left on the notch.</li>
+                <li>Improved: More system load and performance issues.</li>
+                <li>Added: BISCUITS! New section in Shadow which works as a screen tool to take a break.</li>
+                <li>Added: Shadow Guide.</li>
+                <li>Fixed: Cursor Jiggler not working on launch.</li>
+                <li>Fixed: Easter egg up a little. shhh its still a secret!</li>
                 <li>Fixed: Camera permission breaking for some users in The Nook.</li>
-                <li>Fixed: Safari trackpad reversed scroll direction issue.</li>
-                <li>Fixed: Some apps not working with unminimize gesture when in dock.</li>
-                <li>Fixed: Window snapping reset config after gesture performed on window and then grabbing title bar.</li>
+                <li>Fixed: Self quit gesture affecting Habitat.</li>
+                <li>Fixed: Battery menubar icon not refreshing.</li>
               </ul>
               <p>More to come.<br>
               — Thank you for all the support & feedback!</p>
