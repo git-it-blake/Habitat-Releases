@@ -3,18 +3,18 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.1 Beta 11</title>
-            <pubDate>Wed, 06 May 2026 11:38:25 -0400</pubDate>
-            <sparkle:version>15</sparkle:version>
+            <title>0.1 Beta 12</title>
+            <pubDate>Fri, 08 May 2026 10:36:52 -0400</pubDate>
+            <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_11/Habitat.dmg" length="32941038" type="application/octet-stream" sparkle:edSignature="PvnCOgC30lwaW2BHjSg+HMfuYuQYqyhJIXm5TaDxHPaBhsn7mxgQVg8KKUAI4g1JIslSrpiZyyH6J9SWtk5aAQ=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_12/Habitat.dmg" length="32940556" type="application/octet-stream" sparkle:edSignature="r4cLK1Fco7IOHelwpy42HYWQqxekJQs/96Ra5yfT+eYwtzfui5mS5kqY+v3gWPD1TmP6M62fUr7l1/WrbwpgBA=="/>
             <description><![CDATA[
-              <h1>Habitat Version 0.1 Beta 11</h1>
+              <h1>Habitat Version 0.1 Beta 12</h1>
               <h4>What's New & Improved</h4>
               <ul>
-                <li>Improved: More system load and performance issues.</li>
-                <li>Fixed: Fixed: Animation glitch with nook.</li>
+                <li>Improved: Some margin spacings. Not really noticeable but needed to be done.</li>
+                <li>Fixed: Title bar trackpad gesture direction being reversed from mouse toggle setting.</li>
               </ul>
               <p>More to come.<br>
               — Thank you for all the support & feedback!</p>
