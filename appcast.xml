@@ -1,22 +1,28 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Habitat</title>
+        <title>habitat</title>
         <item>
-            <title>0.1 Beta 12</title>
-            <pubDate>Fri, 08 May 2026 10:36:52 -0400</pubDate>
-            <sparkle:version>16</sparkle:version>
+            <title>0.1 Beta 13</title>
+            <pubDate>Thu, 14 May 2026 10:48:11 -0400</pubDate>
+            <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_12/Habitat.dmg" length="32940556" type="application/octet-stream" sparkle:edSignature="r4cLK1Fco7IOHelwpy42HYWQqxekJQs/96Ra5yfT+eYwtzfui5mS5kqY+v3gWPD1TmP6M62fUr7l1/WrbwpgBA=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_13/Habitat.dmg" length="33032534" type="application/octet-stream" sparkle:edSignature="ImpRIiqvRmBt7PZZ9RcHsTmy11rngXv5KW6HgUygqZlAYIB4Y2I0kQtp1HAtQxtOTzc7yDxB37OI/0TtxZEoDg=="/>
             <description><![CDATA[
-              <h1>Habitat Version 0.1 Beta 12</h1>
+              <h1>Habitat Version 0.1 Beta 13</h1>
               <h4>What's New & Improved</h4>
               <ul>
-                <li>Improved: Some margin spacings. Not really noticeable but needed to be done.</li>
-                <li>Fixed: Title bar trackpad gesture direction being reversed from mouse toggle setting.</li>
+                <li>Improved: Biscuits page layout.</li>
+                <li>Improved: Updated trackpad gestures to follow a different.</li>
+                <li>Added: Language localization support (Kind of). Still needs work for proper translation in some some languages.</li>
+                <li>Added: Beans! New shadow section inside biscuits for those who prefer a dimmed background behind a focused app.</li>
+                <li>Added: 3x3 grid to trackpad gestures when holding SHIFT and doing a title bar gestures. (still needs some work)</li>
+                <li>Fixed: Scroll and Navigate action for mice with titlebar direction.</li>
+                <li>Fixed: Double click action not getting recognized in mouse settings input.</li>
               </ul>
               <p>More to come.<br>
+              
               — Thank you for all the support & feedback!</p>
             ]]></description>
           </item>
