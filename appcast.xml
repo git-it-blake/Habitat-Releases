@@ -15,7 +15,7 @@
               <ul>
                 <li>Improved: Biscuits page layout.</li>
                 <li>Improved: Updated trackpad gestures to follow a different.</li>
-                <li>Added: Language localization support (Kind of). Still needs work for proper translation in some some languages.</li>
+                <li>Added: Language localization support (Kind of). Still needs work for proper translation in some languages.</li>
                 <li>Added: Beans! New shadow section inside biscuits for those who prefer a dimmed background behind a focused app.</li>
                 <li>Added: 3x3 grid to trackpad gestures when holding SHIFT and doing a title bar gestures. (still needs some work)</li>
                 <li>Fixed: Scroll and Navigate action for mice with titlebar direction.</li>
