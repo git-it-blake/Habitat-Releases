@@ -1,24 +1,30 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>habitat</title>
+        <title>Habitat</title>
         <item>
-            <title>0.1</title>
-            <pubDate>Mon, 18 May 2026 12:31:39 -0400</pubDate>
-            <sparkle:version>18</sparkle:version>
+            <title>0.1 Beta 15</title>
+            <pubDate>Thu, 28 May 2026 16:13:53 -0400</pubDate>
+            <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_14/Habitat.dmg" length="33196824" type="application/octet-stream" sparkle:edSignature="3u8Nzt1LFWXsK9bKBN1iXzIRE0VfJtE46wPwhK+0KRqyk8l77IItkmnUEJvmMtjnvEAnt81xx7fK2PGEVWAzCQ=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_15/Habitat.dmg" length="85582695" type="application/octet-stream" sparkle:edSignature="yigirKuT0gXlYr+XONMeU8crzCnEj6aBtkS4rZPlaZd8KFaGfssmhXdJoc5K3Bxo/xWqh6b9UJUQw4a7rwAXCg=="/>
             <description><![CDATA[
-              <h1>Habitat Version 0.1 Beta 14</h1>
+              <h1>Habitat Version 0.1 Beta 15</h1>
               <h4>What's New & Improved</h4>
               <ul>
-                <li>Improved: Trackpad thirds window gesture is now less sensitive.</li>
-                <li>Fixed: Nook presenting itself when it wasn’t hovered over or menubar was clicked anywhere sometimes.</li>
-                <li>Fixed: Hoo Monitor tab loading times and some performance issues.</li>
-                <li>Fixed: Some language localization issues.</li>
+                <li>Added: New tool! Burrow is here to give you a quick deep dive into folders and files to preview inside of finder!</li>
+                <li>Added: Echo Clipboard as an option in mouse and trackpad actions!</li>
+                <li>Added: Dock Icon appearance for pro users! More options to come!</li>
+                <li>Added: Restart Habitat button in the main menubar icon, as well as in settings in case users every experience any slowdowns or glitches.</li>
+                <li>Improved: App Icon! Little more simplified and is available as different colors in settings in the dock!</li>
+                <li>Improved: Boa Archive inspector was reworked into Burrow, and instead is now a file encryption and decryption tool as well as file compression!</li>
+                <li>Improved: Chomp app uninstaller file hierarchy search, now recognizes more file paths & types.</li>
+                <li>Improved: Video quality of carousel, slightly upscaled.</li>
+                <li>Fixed: Hovering effect on buttons that had popup text needing 2 clicks to activate.</li>
+                <li>Fixed: Shadow tool bar flicker.</li>
               </ul>
-              <p>More to come.<br><br>
+              <p><br>More to come.<br><br>
               — Thank you for all the support & feedback!</p>
             ]]></description>
           </item>
