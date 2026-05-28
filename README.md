@@ -73,9 +73,10 @@ Habitat is organized into seven purpose-built tools, each named after an animal 
 | **Spark** ⚡ | Battery Manager | Real-time battery health dashboard, charge-history charts, power-adapter stats, per-app energy tracking, and a menu-bar battery indicator with configurable icons. |
 | **Squeak** 🐭 | Mouse & Cursor Tools | Per-mouse profile settings, scroll speed & direction control, pointer acceleration curves, custom button mappings, and **mouse gestures** (Spaces & Mission Control, Scroll & Navigate). |
 | **Hoo** 🦉 | Network Security | Live outgoing-connection monitor with IP geolocation mapping, per-app bandwidth, DNS resolver tools, and a world-map view of where your Mac is talking to. |
-| **Boa** 🐍 | Compress & Inspect | File compression (ZIP / TAR), archive previews, integrity checks, and risky-archive structure warnings. |
+| **Boa** 🐍 | Compress & Encrypt | File compression (ZIP / TAR) and secure file encryption to protect sensitive data. |
 | **Echo** 🦜 | Clipboard Manager | Persistent clipboard history with search, pinning, per-app exclusions, and one-click paste — never lose a copied snippet again. |
 | **Shadow** 🌙 | Notch Tools & Screen Breaks | Hover/click shelf around the Mac notch (Now Playing, quick actions, camera mirror, file shelf) — plus **Biscuits** full-screen rest breaks on a timer, with menu-bar integration. |
+| **Burrow** 🦡 | Folder Quick Look | Displays a sortable, detailed folder table and archive preview directly inside Finder's own Quick Look panel when you press Space. |
 
 ## System-Wide Features
 
