@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Habitat</title>
+        <title>habitat</title>
         <item>
             <title>0.1 Beta 15</title>
-            <pubDate>Thu, 28 May 2026 16:13:53 -0400</pubDate>
-            <sparkle:version>21</sparkle:version>
+            <pubDate>Thu, 28 May 2026 18:29:40 -0400</pubDate>
+            <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_15/Habitat.dmg" length="85582695" type="application/octet-stream" sparkle:edSignature="yigirKuT0gXlYr+XONMeU8crzCnEj6aBtkS4rZPlaZd8KFaGfssmhXdJoc5K3Bxo/xWqh6b9UJUQw4a7rwAXCg=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_15/Habitat.dmg" length="85581008" type="application/octet-stream" sparkle:edSignature="psdjt4mfYSIXWMSnLGl1XRP1A5Uh9520jEKau1dF3nU1i01Hb0JinfORmB7oUcLzlXH5ucTmGKQ3clDRzv0bDQ=="/>
             <description><![CDATA[
               <h1>Habitat Version 0.1 Beta 15</h1>
               <h4>What's New & Improved</h4>
@@ -22,7 +22,7 @@
                 <li>Improved: Chomp app uninstaller file hierarchy search, now recognizes more file paths & types.</li>
                 <li>Improved: Video quality of carousel, slightly upscaled.</li>
                 <li>Fixed: Hovering effect on buttons that had popup text needing 2 clicks to activate.</li>
-                <li>Fixed: Shadow tool bar flicker.</li>
+                <li>Fixed: Shadow file drop not opening when dragging file to notch.</li>
               </ul>
               <p><br>More to come.<br><br>
               — Thank you for all the support & feedback!</p>
