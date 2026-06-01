@@ -78,16 +78,7 @@ Habitat is organized into seven purpose-built tools, each named after an animal 
 | **Shadow** 🌙 | Notch Tools & Screen Breaks | Hover/click shelf around the Mac notch (Now Playing, quick actions, camera mirror, file shelf) — plus **Biscuits** full-screen rest breaks on a timer, with menu-bar integration. |
 | **Burrow** 🦡 | Folder Quick Look | Displays a sortable, detailed folder table and archive preview directly inside Finder's own Quick Look panel when you press Space. |
 
-## System-Wide Features
 
-These work everywhere on macOS, not just inside Habitat's window:
-
-- 🪟 **Trackpad title-bar gestures** — Scroll up on any window's title bar to maximize, down to minimize, and left/right to snap to halves or quarters. Subtle haptic feedback confirms each commit. Gestures are gated to visible windows only, so they never leak onto the desktop below the menu bar.
-- 🖱️ **Mouse gestures** — Map any of buttons 2–7 on a configurable mouse to **Scroll & Navigate**, including a native-feeling **Spaces & Mission Control** horizontal swipe that commits intentionally and ignores accidental wiggle-backs.
-- 📐 **Window snapping with live reflow** — Halves, quarters, and a configurable grid gap; change the gap and already-snapped windows refit in place.
-- 🔓 **Drag-to-unsnap** — Drag a snapped window off by its title bar and it pops back to its pre-snap frame.
-- 🖱️ **Double-click-to-zoom (native title bar only)** — Respects browsers and rich document views so double-clicks on web pages aren't swallowed.
-- 🎛️ **Squeak menu-bar HUD** — A tiny on-screen tooltip confirms the gesture you just performed (minimize, maximize, snap, etc.) with a smooth render-server fade.
 
 ## Menu Bar
 
@@ -115,6 +106,17 @@ Habitat integrates with the macOS menu bar without getting in the way:
 - 🚀 **Lightweight** — A single native process with minimal CPU and memory footprint.
 - 🖥️ **Persistent** — Habitat stays running in the background when you close its window, just like Finder. Reopen from the Dock icon to surface the main window again.
 - 📥 **Auto-updates** — Powered by [Sparkle](https://sparkle-project.org) with an in-app **Check for Updates** in both Settings and the Habitat app-menu.
+
+## System-Wide Features
+
+These work everywhere on macOS, not just inside Habitat's window:
+
+- 🪟 **Trackpad title-bar gestures** — Scroll up on any window's title bar to maximize, down to minimize, and left/right to snap to halves or quarters. Subtle haptic feedback confirms each commit. Gestures are gated to visible windows only, so they never leak onto the desktop below the menu bar.
+- 🖱️ **Mouse gestures** — Map any of buttons 2–7 on a configurable mouse to **Scroll & Navigate**, including a native-feeling **Spaces & Mission Control** horizontal swipe that commits intentionally and ignores accidental wiggle-backs.
+- 📐 **Window snapping with live reflow** — Halves, quarters, and a configurable grid gap; change the gap and already-snapped windows refit in place.
+- 🔓 **Drag-to-unsnap** — Drag a snapped window off by its title bar and it pops back to its pre-snap frame.
+- 🖱️ **Double-click-to-zoom (native title bar only)** — Respects browsers and rich document views so double-clicks on web pages aren't swallowed.
+- 🎛️ **Squeak menu-bar HUD** — A tiny on-screen tooltip confirms the gesture you just performed (minimize, maximize, snap, etc.) with a smooth render-server fade.
 
 ## Requirements
 
