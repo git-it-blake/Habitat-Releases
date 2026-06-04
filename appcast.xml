@@ -1,28 +1,34 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>habitat</title>
+        <title>Habitat Released!</title>
         <item>
-            <title>0.1 Beta 15</title>
-            <pubDate>Thu, 28 May 2026 18:29:40 -0400</pubDate>
-            <sparkle:version>22</sparkle:version>
+            <title>0.1</title>
+            <pubDate>Wed, 03 Jun 2026 21:36:58 -0400</pubDate>
+            <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Beta_15/Habitat.dmg" length="85581008" type="application/octet-stream" sparkle:edSignature="psdjt4mfYSIXWMSnLGl1XRP1A5Uh9520jEKau1dF3nU1i01Hb0JinfORmB7oUcLzlXH5ucTmGKQ3clDRzv0bDQ=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1/Habitat.dmg" length="85739778" type="application/octet-stream" sparkle:edSignature="46xvayINEzWA3Gw3nV7459uo60DAiRqPHVRIkMy7uDqJHHlwp06BVwwW1QV+oex6rJ86LVHFR09+wEh4zuuJBA=="/>
             <description><![CDATA[
-              <h1>Habitat Version 0.1 Beta 15</h1>
-              <h4>What's New & Improved</h4>
+              <h1>Habitat V0.1</h1>
+              <h4>Habitat is now out of beta!🎉🎊🥳🍾</h4>
               <ul>
                 <li>Added: New tool! Burrow is here to give you a quick deep dive into folders and files to preview inside of finder!</li>
                 <li>Added: Echo Clipboard as an option in mouse and trackpad actions!</li>
                 <li>Added: Dock Icon appearance for pro users! More options to come!</li>
                 <li>Added: Restart Habitat button in the main menubar icon, as well as in settings in case users every experience any slowdowns or glitches.</li>
+                <li>Added: Option for 15% discount if users wish to share habitat on social media!</li>
+                <li>Added: Users can now copy their license key directly in the app after deactivating it.</li>
                 <li>Improved: App Icon! Little more simplified and is available as different colors in settings in the dock!</li>
                 <li>Improved: Boa Archive inspector was reworked into Burrow, and instead is now a file encryption and decryption tool as well as file compression!</li>
                 <li>Improved: Chomp app uninstaller file hierarchy search, now recognizes more file paths & types.</li>
                 <li>Improved: Video quality of carousel, slightly upscaled.</li>
+                <li>Improved: Shadow Nook now works on external monitors independently from Macbook notch.</li>
+                <li>Fixed: Shadow Shelf button now works if shelf is disabled from menu view.</li>
                 <li>Fixed: Hovering effect on buttons that had popup text needing 2 clicks to activate.</li>
                 <li>Fixed: Shadow file drop not opening when dragging file to notch.</li>
+                <li>Fixed: Shadow notch would just stall and crash unexpectely.</li>
+                <li>Fixed: Burrow toggle disappearing.</li>
               </ul>
               <p><br>More to come.<br><br>
               — Thank you for all the support & feedback!</p>
