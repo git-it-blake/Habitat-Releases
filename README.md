@@ -92,7 +92,7 @@ Habitat integrates with the macOS menu bar without getting in the way:
 
 - 🆓 **14-day full trial** — Every Pro tool is unlocked during the trial. Trial time is counted as **active runtime**, not wall-clock: if you close Habitat for a week, the trial doesn't tick down.
 - 🆓 **Chomp is always free** — Cleanup, Space Lens, and the window-aware quitter work forever without a license.
-- 💳 **$6.99 one-time via [DodoPayments](https://dodo.pe/hatitat-pro)** — Lifetime access, no subscriptions. Trial expiry never deletes your data; Chomp keeps working, and the other tools can be reactivated any time by entering a key.
+- 💳 **$6.99 one-time** — Lifetime access, no subscriptions. Trial expiry never deletes your data; Chomp keeps working, and the other tools can be reactivated any time by entering a key.
 - 🔁 **Self-service deactivation** — Free up a license seat from **Settings → License → PRO** so you can move Habitat to another Mac.
 
 ## Privacy
