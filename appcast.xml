@@ -3,32 +3,34 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.1</title>
-            <pubDate>Thu, 04 Jun 2026 19:00:06 -0400</pubDate>
-            <sparkle:version>27</sparkle:version>
+            <title>0.1 (Build 28)</title>
+            <pubDate>Thu, 02 Jul 2026 16:36:15 -0400</pubDate>
+            <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1/Habitat.dmg" length="85708718" type="application/octet-stream" sparkle:edSignature="1XO/7AQYKhMWbuhLUE7KjMew6jBsrcvmOfQYYkWst2QvDXetkV7UBOvxa/IQiaVFSvkW9bhlGsdlVQlqxlsLBw=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Build_28/Habitat.dmg" length="85733865" type="application/octet-stream" sparkle:edSignature="YT/P80213M8N6efrArUzEunti/UBNMdw99wjnT8hia0r06LtrxKvY5l/zzPglguP/CKL9sqaFZGCyra/zzBSAA=="/>
             <description><![CDATA[
-              <h1>Habitat V0.1</h1>
-              <h4>Habitat is now out of beta!🎉🎊🥳🍾</h4>
+              <h1>Habitat V0.1 (Build 28)</h1>
+              <h4>Changelog</h4>
+              <p>Hey all! Sorry for the delayed update, been traveling a lot and had some important life events happening lately.<br><br>
+              
+              For future updates, I'm going to try to structure the versions release numbers based on when new tools come out or when major features are added or reworked, and keep bug fixes or smaller updates the build numbers.<br><br>
+
+              Example: v0.2 features a new tool, v0.3 has major new features, etc.
+              For smaller udpates: v0.2 (build 30) features small fixes and improvments, same for v0.2 (build 31) and so on.<br><br>
+
+              Anyhoo, here’s the latest changelog for Habitat!<br><br>
               <ul>
-                <li>Added: New tool! Burrow is here to give you a quick deep dive into folders and files to preview inside of finder!</li>
-                <li>Added: Echo Clipboard as an option in mouse and trackpad actions!</li>
-                <li>Added: Dock Icon appearance for pro users! More options to come!</li>
-                <li>Added: Restart Habitat button in the main menubar icon, as well as in settings in case users every experience any slowdowns or glitches.</li>
+                <li>Fixed: Text search field for Echo clipboard not working.</li>
+                <li>Fixed: Going into tools tab, clicking a tool, then going back now properly goes back to tools page instead of home page.</li>
+                <li>Fixed: Nook home button quick action & menubar home button not going to home page.</li>
+                <li>Fixed: Biscuits rhythm buttons hover effects not working.</li>
                 <li>Added: Option for 15% discount if users wish to share habitat on social media!</li>
-                <li>Added: Users can now copy their license key directly in the app after deactivating it.</li>
-                <li>Improved: App Icon! Little more simplified and is available as different colors in settings in the dock!</li>
-                <li>Improved: Boa Archive inspector was reworked into Burrow, and instead is now a file encryption and decryption tool as well as file compression!</li>
-                <li>Improved: Chomp app uninstaller file hierarchy search, now recognizes more file paths & types.</li>
-                <li>Improved: Video quality of carousel, slightly upscaled.</li>
-                <li>Improved: Shadow Nook now works on external monitors independently from Macbook notch.</li>
-                <li>Fixed: Shadow Shelf button now works if shelf is disabled from menu view.</li>
-                <li>Fixed: Hovering effect on buttons that had popup text needing 2 clicks to activate.</li>
-                <li>Fixed: Shadow file drop not opening when dragging file to notch.</li>
-                <li>Fixed: Shadow notch would just stall and crash unexpectely.</li>
-                <li>Fixed: Burrow toggle disappearing.</li>
+                <li>Fixed: Shadow Nook showing on top of fullscreen apps on external monitors. Now only shows on desktop for external monitors. Also added an animation for the nook when unlocking, or toggling it.</li>
+                <li>Working on: Burrow button load times and more functionality.</li>
+                <li>Working on: Batch Paste option for echo.</li>
+                <li>Working on: Better multi lingual support.</li>
+                <li>Working on: The Next Tool! Any guesses?</li>
               </ul>
               <p><br>More to come.<br><br>
               — Thank you for all the support & feedback!</p>
