@@ -3,34 +3,18 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.1 (Build 28)</title>
-            <pubDate>Thu, 02 Jul 2026 16:36:15 -0400</pubDate>
-            <sparkle:version>28</sparkle:version>
+            <title>0.1</title>
+            <pubDate>Sun, 05 Jul 2026 20:28:54 -0400</pubDate>
+            <sparkle:version>29</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Build_28/Habitat.dmg" length="85733865" type="application/octet-stream" sparkle:edSignature="YT/P80213M8N6efrArUzEunti/UBNMdw99wjnT8hia0r06LtrxKvY5l/zzPglguP/CKL9sqaFZGCyra/zzBSAA=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Build_29/Habitat.dmg" length="85811782" type="application/octet-stream" sparkle:edSignature="JeemQSQcUEaNCDG6TWN/8xwvUcwANlbns3me/TOSB/QPjYmSJB5UpLOoXscp+rBJWtMubov9F7aop9WnUQNtDw=="/>
             <description><![CDATA[
-              <h1>Habitat V0.1 (Build 28)</h1>
+              <h1>Habitat V0.1 (Build 29)</h1>
               <h4>Changelog</h4>
-              <p>Hey all! Sorry for the delayed update, been traveling a lot and had some important life events happening lately.<br><br>
-              
-              For future updates, I'm going to try to structure the versions release numbers based on when new tools come out or when major features are added or reworked, and keep bug fixes or smaller updates the build numbers.<br><br>
-
-              Example: v0.2 features a new tool, v0.3 has major new features, etc.
-              For smaller udpates: v0.2 (build 30) features small fixes and improvments, same for v0.2 (build 31) and so on.<br><br>
-
-              Anyhoo, here’s the latest changelog for Habitat!<br><br>
-              <ul>
-                <li>Fixed: Text search field for Echo clipboard not working.</li>
-                <li>Fixed: Going into tools tab, clicking a tool, then going back now properly goes back to tools page instead of home page.</li>
-                <li>Fixed: Nook home button quick action & menubar home button not going to home page.</li>
-                <li>Fixed: Biscuits rhythm buttons hover effects not working.</li>
-                <li>Added: Option for 15% discount if users wish to share habitat on social media!</li>
-                <li>Fixed: Shadow Nook showing on top of fullscreen apps on external monitors. Now only shows on desktop for external monitors. Also added an animation for the nook when unlocking, or toggling it.</li>
-                <li>Working on: Burrow button load times and more functionality.</li>
-                <li>Working on: Batch Paste option for echo.</li>
-                <li>Working on: Better multi lingual support.</li>
-                <li>Working on: The Next Tool! Any guesses?</li>
+                <li>Added: Batch Paste option for echo. Hold Cmd to select multiple copied items!</li>
+                <li>Improved: Localized translations (still a work in progress).</li>
+                <li>Fixed: Squeak tooltip not showing on top of fullscreen apps.</li>
               </ul>
               <p><br>More to come.<br><br>
               — Thank you for all the support & feedback!</p>
