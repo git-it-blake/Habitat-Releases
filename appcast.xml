@@ -3,18 +3,30 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.1</title>
-            <pubDate>Sun, 05 Jul 2026 20:28:54 -0400</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <title>v0.2</title>
+            <pubDate>Fri, 10 Jul 2026 14:39:11 -0400</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.1_Build_29/Habitat.dmg" length="85811782" type="application/octet-stream" sparkle:edSignature="JeemQSQcUEaNCDG6TWN/8xwvUcwANlbns3me/TOSB/QPjYmSJB5UpLOoXscp+rBJWtMubov9F7aop9WnUQNtDw=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.2/Habitat.dmg" length="89672752" type="application/octet-stream" sparkle:edSignature="aRltewOYmWRGL8V9Fjbkxd11hvtfMpx0OQAG+pGfpYvEIopyNYZKl1o5msb1WWT1WDcW0uHpC9ttVVb/s7IZDA=="/>
             <description><![CDATA[
-              <h1>Habitat V0.1 (Build 29)</h1>
+              <h1>Habitat V0.2</h1>
               <h4>Changelog</h4>
-                <li>Added: Batch Paste option for echo. Hold Cmd to select multiple copied items!</li>
-                <li>Improved: Localized translations (still a work in progress).</li>
-                <li>Fixed: Squeak tooltip not showing on top of fullscreen apps.</li>
+                <li>Added: A NEW TOOL! Introducing: Leap! The bouncy frog that lets you set a key bind of your choice to have a better looking and more useful Cmd+Tab interface.</li>
+                <li>Improved: Squeak dock gestures on running apps that don’t have an active window.</li>
+                <li>Improved: Burrow layout and file hierarchy structure. Now has a file preview option.</li>
+                <li>Improved: Spark power telemetry report timing and stopped re-sorting the full sample array on every append/read. Stats now update more frequently and accurately.</li>
+                <li>Improved: Spark energy scores are now capped at 80 apps so the JSON can’t grow forever on long-running sessions.</li>
+                <li>Improved: Hoo geo cache is now capped at 256 IPs so long monitor sessions don’t retain unbounded RAM.</li>
+                <li>Improved: Shadow Nook now shows cover art for music like Spotify & Apple music, has an audio visualizer toggle, and now has a camera preview within the settings.</li>
+                <li>Improved: Shadow Nook layout when certain modules are enabled or not.</li>
+                <li>Improved: Shadow Beans dimmer is now 15 Hz and skips redraws when the focused window cutout, opacity, and screen frame are unchanged. Same look, less GPU/CPU when Beans is on.</li>
+                <li>Improved: Button hover effects throughout all tools.</li>
+                <li>Improved: AccessibilityHelper idle CPU usage decreased significantly. Before it ran on every AX poll, now only runs on trust changes or pro status lapses.</li>
+                <li>Improved: Echo Storage cleanup now prunes orphaned PNGs in EchoMedia/ that no longer match history. Prunes copy-event fingerprints when items are removed/cleared. And clears copy-events on “clear all”</li>
+                <li>Improved: Translation localization (still. A work in progress)</li>
+                <li>Fixed: Notch Nook showing extra notches on built in MacBook display when disconnecting from external monitors.</li>
+                <li>Fixed: Transition between Video carousel flashing on cycle loop reset.</li>
               </ul>
               <p><br>More to come.<br><br>
               — Thank you for all the support & feedback!</p>
