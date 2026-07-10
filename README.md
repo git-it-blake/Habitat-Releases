@@ -65,7 +65,7 @@
 
 ## Tools
 
-Habitat is organized into seven purpose-built tools, each named after an animal or element that reflects its personality:
+Habitat is organized into nine purpose-built tools, each named after an animal or element that reflects its personality:
 
 | Tool | Role | What It Does |
 |------|------|--------------|
@@ -77,6 +77,7 @@ Habitat is organized into seven purpose-built tools, each named after an animal 
 | **Echo** 🦜 | Clipboard Manager | Persistent clipboard history with search, pinning, per-app exclusions, and one-click paste — never lose a copied snippet again. |
 | **Shadow** 🌙 | Notch Tools & Screen Breaks | Hover/click shelf around the Mac notch (Now Playing, quick actions, camera mirror, file shelf) — plus **Biscuits** full-screen rest breaks on a timer, with menu-bar integration. |
 | **Burrow** 🦡 | Folder Quick Look | Displays a sortable, detailed folder table and archive preview directly inside Finder's own Quick Look panel when you press Space. |
+| **Leap** 🐸 | Window Switcher & Navigator | Fast Command-Tab-style window switcher with thumbnail, app-icon, and title layouts, keyboard and mouse navigation, and light / dark / system themes. |
 
 
 
@@ -145,10 +146,6 @@ If you enjoy Habitat and want to support its development:
 ## Feedback & Bugs
 
 Found a bug or have a feature request? Open an [Issue](../../issues) or use the **Report Bug** button inside **Habitat → Settings**.
-
-## Acknowledgements
-
-The spirit and direction of individual tools were **inspired** by the incredible work of the independent macOS developer community — in particular the attention to detail that apps have brought to their respective domains.
 
 ---
 
