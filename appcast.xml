@@ -3,30 +3,25 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>v0.2</title>
-            <pubDate>Fri, 10 Jul 2026 14:39:11 -0400</pubDate>
-            <sparkle:version>30</sparkle:version>
+            <title>0.2</title>
+            <pubDate>Mon, 27 Jul 2026 17:20:24 -0400</pubDate>
+            <sparkle:version>31</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.2/Habitat.dmg" length="89672752" type="application/octet-stream" sparkle:edSignature="aRltewOYmWRGL8V9Fjbkxd11hvtfMpx0OQAG+pGfpYvEIopyNYZKl1o5msb1WWT1WDcW0uHpC9ttVVb/s7IZDA=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.2_Build_31/Habitat.dmg" length="89702373" type="application/octet-stream" sparkle:edSignature="jGe+L8v79SVYLSeJeFIO42Er7wSnW9ecduQ+pf1JXGfTP1dEF86XCWigX0TTZoPAPORBnB9zs7ZA7/L6878iDA=="/>
             <description><![CDATA[
-              <h1>Habitat V0.2</h1>
+              <h1>Habitat V0.2 (Build 31)</h1>
               <h4>Changelog</h4>
-                <li>Added: A NEW TOOL! Introducing: Leap! The bouncy frog that lets you set a key bind of your choice to have a better looking and more useful Cmd+Tab interface.</li>
-                <li>Improved: Squeak dock gestures on running apps that don’t have an active window.</li>
+                <li>Added: Leap tool guide.</li>
+                <li>Improved: Echo now has an option to pause the clipboard listener.</li>
                 <li>Improved: Burrow layout and file hierarchy structure. Now has a file preview option.</li>
-                <li>Improved: Spark power telemetry report timing and stopped re-sorting the full sample array on every append/read. Stats now update more frequently and accurately.</li>
-                <li>Improved: Spark energy scores are now capped at 80 apps so the JSON can’t grow forever on long-running sessions.</li>
-                <li>Improved: Hoo geo cache is now capped at 256 IPs so long monitor sessions don’t retain unbounded RAM.</li>
-                <li>Improved: Shadow Nook now shows cover art for music like Spotify & Apple music, has an audio visualizer toggle, and now has a camera preview within the settings.</li>
-                <li>Improved: Shadow Nook layout when certain modules are enabled or not.</li>
-                <li>Improved: Shadow Beans dimmer is now 15 Hz and skips redraws when the focused window cutout, opacity, and screen frame are unchanged. Same look, less GPU/CPU when Beans is on.</li>
-                <li>Improved: Button hover effects throughout all tools.</li>
-                <li>Improved: AccessibilityHelper idle CPU usage decreased significantly. Before it ran on every AX poll, now only runs on trust changes or pro status lapses.</li>
-                <li>Improved: Echo Storage cleanup now prunes orphaned PNGs in EchoMedia/ that no longer match history. Prunes copy-event fingerprints when items are removed/cleared. And clears copy-events on “clear all”</li>
-                <li>Improved: Translation localization (still. A work in progress)</li>
-                <li>Fixed: Notch Nook showing extra notches on built in MacBook display when disconnecting from external monitors.</li>
-                <li>Fixed: Transition between Video carousel flashing on cycle loop reset.</li>
+                <li>Improved: Echo’s drag and drop copied options.</li>
+                <li>Improved: Spark now has different icons for macs that don’t have an internal battery. And live energy graphs inside menubar icon should be more responsive when hovering over them.</li>
+                <li>Improved: Squeak spaces gestures now move windows smoothly across screen instead of an instant snap.</li>
+                <li>Improved: Leap navigation window no longer stays open waiting for an animation of a minimized app to appear.</li>
+                <li>Fixed: General performance bugs fixed across multiple tools. Should reduce system lags or stutters.</li>
+                <li>Fixed: Squeak drag to unsnap after a couple gestures.</li>
+                <li>Fixed: Habitat not working on boot until focused.</li>
               </ul>
               <p><br>More to come.<br><br>
               — Thank you for all the support & feedback!</p>
