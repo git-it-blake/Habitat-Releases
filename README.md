@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-macOS%2026%2B-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/apple%20silicon-arm64-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/swift-6.0-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/price-%246.99%20one--time-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform-MacOS%2026%2B-blue?style=for-the-badge" width="160" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Apple%20Silicon-Arm64-black?style=for-the-badge" width="158" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Swift-6.0-orange?style=for-the-badge" width="91" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/git-it-blake/Habitat-Releases/releases"><img src="https://img.shields.io/github/downloads/git-it-blake/Habitat-Releases/total?style=for-the-badge&label=Downloads&color=brightgreen" alt="Downloads" width="128" /></a>
 </p>
 
 <p align="center">
