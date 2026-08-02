@@ -4,12 +4,19 @@
         <title>Habitat</title>
         <item>
             <title>0.2</title>
-            <pubDate>Mon, 27 Jul 2026 17:20:24 -0400</pubDate>
-            <sparkle:version>31</sparkle:version>
+            <pubDate>Sun, 02 Aug 2026 01:51:44 -0400</pubDate>
+            <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.2_Build_31/Habitat.dmg" length="89702373" type="application/octet-stream" sparkle:edSignature="jGe+L8v79SVYLSeJeFIO42Er7wSnW9ecduQ+pf1JXGfTP1dEF86XCWigX0TTZoPAPORBnB9zs7ZA7/L6878iDA=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.2_Build_32/Habitat.dmg" length="89680915" type="application/octet-stream" sparkle:edSignature="fZ9nXTIaDlIlgw+VRno8oRGdbGsKEOKA9V/mUz4ETYTNbq9ukjEv4UnnhWbR5LXxGxNCUWfQQYFdObLYnjwQDA=="/>
             <description><![CDATA[
+                <h1>Habitat V0.2 (Build 32)</h1>
+                <h4>Changelog</h4>
+                  <li>Improved: Echo clipboard popup now shows image & video previews instead of file path.</li>
+                  <li>Fixed: Addressed a couple background usage spikes and performance bugs.</li>
+                  <li>Removed: Squeak mission control & App exposé trackpad toggle. Caused too many graphical issues.</li><br><br>
+                
+                
               <h1>Habitat V0.2 (Build 31)</h1>
               <h4>Changelog</h4>
                 <li>Added: Leap tool guide.</li>
