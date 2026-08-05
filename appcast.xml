@@ -3,32 +3,26 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.2</title>
-            <pubDate>Sun, 02 Aug 2026 01:51:44 -0400</pubDate>
-            <sparkle:version>32</sparkle:version>
+            <title>0.2 (Build 33)</title>
+            <pubDate>Wed, 05 Aug 2026 14:08:12 -0400</pubDate>
+            <sparkle:version>33</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.2_Build_32/Habitat.dmg" length="89680915" type="application/octet-stream" sparkle:edSignature="fZ9nXTIaDlIlgw+VRno8oRGdbGsKEOKA9V/mUz4ETYTNbq9ukjEv4UnnhWbR5LXxGxNCUWfQQYFdObLYnjwQDA=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.2_Build_33/Habitat.dmg" length="90399322" type="application/octet-stream" sparkle:edSignature="6GLd/3CIG9dxAFw4x220Z1Myag9qk369BvC/yc8+2lfOCYz/OKDFci0Cx2vWtA18jsX7eZSTv0ZaJjC9GvsNAQ=="/>
             <description><![CDATA[
-                <h1>Habitat V0.2 (Build 32)</h1>
-                <h4>Changelog</h4>
-                  <li>Improved: Echo clipboard popup now shows image & video previews instead of file path.</li>
-                  <li>Fixed: Addressed a couple background usage spikes and performance bugs.</li>
-                  <li>Removed: Squeak mission control & App exposé trackpad toggle. Caused too many graphical issues.</li><br><br>
-                
-                
-              <h1>Habitat V0.2 (Build 31)</h1>
+                <h1>Habitat V0.2 (Build 33)</h1>
+              <p><br>Apologies if I didn't get to reply to anyone on my recent reddit post in the /macosapps subreddit. Apparantely I was 'spamming' my app and banned...ok. Anyway here's the latest update and thank you for the awesome feedback and ideas!<br><br>
               <h4>Changelog</h4>
-                <li>Added: Leap tool guide.</li>
-                <li>Improved: Echo now has an option to pause the clipboard listener.</li>
-                <li>Improved: Burrow layout and file hierarchy structure. Now has a file preview option.</li>
-                <li>Improved: Echo’s drag and drop copied options.</li>
-                <li>Improved: Spark now has different icons for macs that don’t have an internal battery. And live energy graphs inside menubar icon should be more responsive when hovering over them.</li>
-                <li>Improved: Squeak spaces gestures now move windows smoothly across screen instead of an instant snap.</li>
-                <li>Improved: Leap navigation window no longer stays open waiting for an animation of a minimized app to appear.</li>
-                <li>Fixed: General performance bugs fixed across multiple tools. Should reduce system lags or stutters.</li>
-                <li>Fixed: Squeak drag to unsnap after a couple gestures.</li>
-                <li>Fixed: Habitat not working on boot until focused.</li>
+                <li>Improved: Language Localization. Added Italian!</li>
+                <li>Improved: Boa tool. Added file converter section and redesigned initial file upload in all sections.</li>
+                <li>Improved: Spark now has a charge limiter both in the battery tab and when hovering on the battery bar inside the menu bar icon.</li>
+                <li>Improved: Leap now has a dock preview to view all open windows of an app.</li>
+                <li>Improved: Echo now has cmd+x toggle to cut files in finder. Includes sound effect.</li>
+                <li>Improved: Shadow shelf now has option to select specific files you want to drag out instead of 1 at a time.</li>
+                <li>Fixed: Notch Nook spacing issues when music is playing with other modules enabled.</li>
+                <li>Fixed: Squeak gestures not working on mac dock if option to automatically hide dock is on.</li>
+                <li>Fixed: Spark Energy Impact graph not properly reporting correct usage sometimes.</li>
+                <li>Fixed: Chomp empty trash option sometimes not fully emptying.</li>
               </ul>
               <p><br>More to come.<br><br>
               — Thank you for all the support & feedback!</p>

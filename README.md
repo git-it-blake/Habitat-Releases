@@ -3,7 +3,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Apple%20Silicon-Arm64-black?style=for-the-badge" width="158" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Swift-6.0-orange?style=for-the-badge" width="91" />
+  <img src="https://img.shields.io/badge/Swift-6.0+-orange?style=for-the-badge" width="91" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/git-it-blake/Habitat-Releases/releases"><img src="https://img.shields.io/github/downloads/git-it-blake/Habitat-Releases/total?style=for-the-badge&label=Downloads&color=brightgreen" alt="Downloads" width="128" /></a>
 </p>
@@ -110,17 +110,6 @@ Habitat integrates with the macOS menu bar without getting in the way:
 - 🚀 **Lightweight** — A single native process with minimal CPU and memory footprint.
 - 🖥️ **Persistent** — Habitat stays running in the background when you close its window, just like Finder. Reopen from the Dock icon to surface the main window again.
 - 📥 **Auto-updates** — Powered by [Sparkle](https://sparkle-project.org) with an in-app **Check for Updates** in both Settings and the Habitat app-menu.
-
-## System-Wide Features
-
-These work everywhere on macOS, not just inside Habitat's window:
-
-- 🪟 **Trackpad title-bar gestures** — Scroll up on any window's title bar to maximize, down to minimize, and left/right to snap to halves or quarters. Subtle haptic feedback confirms each commit. Gestures are gated to visible windows only, so they never leak onto the desktop below the menu bar.
-- 🖱️ **Mouse gestures** — Map any of buttons 2–7 on a configurable mouse to **Scroll & Navigate**, including a native-feeling **Spaces & Mission Control** horizontal swipe that commits intentionally and ignores accidental wiggle-backs.
-- 📐 **Window snapping with live reflow** — Halves, quarters, and a configurable grid gap; change the gap and already-snapped windows refit in place.
-- 🔓 **Drag-to-unsnap** — Drag a snapped window off by its title bar and it pops back to its pre-snap frame.
-- 🖱️ **Double-click-to-zoom (native title bar only)** — Respects browsers and rich document views so double-clicks on web pages aren't swallowed.
-- 🎛️ **Squeak menu-bar HUD** — A tiny on-screen tooltip confirms the gesture you just performed (minimize, maximize, snap, etc.) with a smooth render-server fade.
 
 ## Requirements
 
