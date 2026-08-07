@@ -3,15 +3,20 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.2 (Build 33)</title>
-            <pubDate>Wed, 05 Aug 2026 14:08:12 -0400</pubDate>
-            <sparkle:version>33</sparkle:version>
+            <title>0.2</title>
+            <pubDate>Fri, 07 Aug 2026 16:31:51 -0400</pubDate>
+            <sparkle:version>34</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.2_Build_33/Habitat.dmg" length="90399322" type="application/octet-stream" sparkle:edSignature="6GLd/3CIG9dxAFw4x220Z1Myag9qk369BvC/yc8+2lfOCYz/OKDFci0Cx2vWtA18jsX7eZSTv0ZaJjC9GvsNAQ=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.2_Build_34/Habitat.dmg" length="90785249" type="application/octet-stream" sparkle:edSignature="wKilmxW8+3c9fBVfce04EOR3yzYpb+cMYypWCQIvLII6O6dFNBRXSSj9SlA0e9YwAOR/0zy+wqEdVzwiYFl3DA=="/>
             <description><![CDATA[
+                <h1>Habitat V0.2 (Build 34)</h1>
+              <h4>Changelog</h4>
+                <li>Improved: Spark menubar pop-out padding.</li>
+                <li>Fixed: Occasional startup crash.</li>
+              </ul>
+              <br><br>
                 <h1>Habitat V0.2 (Build 33)</h1>
-              <p><br>Apologies if I didn't get to reply to anyone on my recent reddit post in the /macosapps subreddit. Apparantely I was 'spamming' my app and banned...ok. Anyway here's the latest update and thank you for the awesome feedback and ideas!<br><br>
               <h4>Changelog</h4>
                 <li>Improved: Language Localization. Added Italian!</li>
                 <li>Improved: Boa tool. Added file converter section and redesigned initial file upload in all sections.</li>
