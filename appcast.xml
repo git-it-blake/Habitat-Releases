@@ -4,18 +4,20 @@
         <title>Habitat</title>
         <item>
             <title>0.2</title>
-            <pubDate>Fri, 07 Aug 2026 16:31:51 -0400</pubDate>
-            <sparkle:version>34</sparkle:version>
+            <pubDate>Sat, 08 Aug 2026 02:42:49 -0400</pubDate>
+            <sparkle:version>35</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.2_Build_34/Habitat.dmg" length="90785249" type="application/octet-stream" sparkle:edSignature="wKilmxW8+3c9fBVfce04EOR3yzYpb+cMYypWCQIvLII6O6dFNBRXSSj9SlA0e9YwAOR/0zy+wqEdVzwiYFl3DA=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.2_Build_35/Habitat.dmg" length="90885409" type="application/octet-stream" sparkle:edSignature="pe1wR/wb60V8lCBmHbgyUVjI3IVbPpM4jsgwA1Ec+66STN8sXu2GGedyLwMalT9EzS7s+rp2oKPOcXcQ5rTaAA=="/>
             <description><![CDATA[
-                <h1>Habitat V0.2 (Build 34)</h1>
+                <h1>Habitat V0.2 (Build 34 & 35)</h1>
               <h4>Changelog</h4>
                 <li>Improved: Spark menubar pop-out padding.</li>
+                <li>Spark energy now includes much more data and reporting.</li>
+                <li>Fixed: Window aware app quitter failing to quit sometimes.</li>
                 <li>Fixed: Occasional startup crash.</li>
               </ul>
-              <br><br>
+              <br>
                 <h1>Habitat V0.2 (Build 33)</h1>
               <h4>Changelog</h4>
                 <li>Improved: Language Localization. Added Italian!</li>
