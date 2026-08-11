@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="Images/habitat%20icons/Habitat%20Menubar%20Icon.png" width="160" alt="Habitat menu bar icon">
+  <img src="screenshots/habitat%20icons/Habitat%20Menubar%20Icon.png" width="160" alt="Habitat menu bar icon">
 </p>
 
 <h1 align="center">Habitat</h1>
 
 <p align="center">
   The ecosystem your Mac's been missing.<br>
-  Everyday Mac utilities in one native app — no Electron, no subscriptions.
 </p>
 
 <p align="center">
@@ -26,7 +25,7 @@
   <a href="https://github.com/git-it-blake/Habitat-Releases/releases"><img src="https://img.shields.io/github/downloads/git-it-blake/Habitat-Releases/total?style=for-the-badge&label=Downloads&color=brightgreen" alt="Downloads" width="128" /></a>
 </p>
 
-**Habitat** is a native macOS utility suite that brings together the everyday tools you need to manage, optimize, and protect your Mac — all inside a single, beautifully designed app. No Electron. No subscriptions. Just a fast, lightweight SwiftUI app that lives in your Dock and menu bar.
+**Habitat** is a native macOS utility suite that brings together the everyday tools you need to manage, optimize, and protect your Mac — all inside a single, beautifully designed app. No Electron. No subscriptions. Just a fast, lightweight SwiftUI app.
 
 <p align="center">
   <img src="screenshots/habitat-home.png" alt="Habitat home dashboard with featured tools" width="720"/>
