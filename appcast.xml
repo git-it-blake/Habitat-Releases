@@ -3,37 +3,34 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.2</title>
-            <pubDate>Sat, 08 Aug 2026 02:42:49 -0400</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <title>0.3</title>
+            <pubDate>Tue, 18 Aug 2026 14:06:03 -0400</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/0.2_Build_35/Habitat.dmg" length="90885409" type="application/octet-stream" sparkle:edSignature="pe1wR/wb60V8lCBmHbgyUVjI3IVbPpM4jsgwA1Ec+66STN8sXu2GGedyLwMalT9EzS7s+rp2oKPOcXcQ5rTaAA=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.3/Habitat.dmg" length="99662752" type="application/octet-stream" sparkle:edSignature="QsxBTRKqxrqecTHI+uCWHRvxIbhyy8ixSW1iqUESknO4GswQ/MsnUEySbZhaG33rDtb4alxHJCxbkworQ/RABQ=="/>
             <description><![CDATA[
-                <h1>Habitat V0.2 (Build 34 & 35)</h1>
-              <h4>Changelog</h4>
-                <li>Improved: Spark menubar pop-out padding.</li>
-                <li>Spark energy now includes much more data and reporting.</li>
-                <li>Fixed: Window aware app quitter failing to quit sometimes.</li>
-                <li>Fixed: Occasional startup crash.</li>
-              </ul>
-              <br>
-                <h1>Habitat V0.2 (Build 33)</h1>
-              <h4>Changelog</h4>
-                <li>Improved: Language Localization. Added Italian!</li>
-                <li>Improved: Boa tool. Added file converter section and redesigned initial file upload in all sections.</li>
-                <li>Improved: Spark now has a charge limiter both in the battery tab and when hovering on the battery bar inside the menu bar icon.</li>
-                <li>Improved: Leap now has a dock preview to view all open windows of an app.</li>
-                <li>Improved: Echo now has cmd+x toggle to cut files in finder. Includes sound effect.</li>
-                <li>Improved: Shadow shelf now has option to select specific files you want to drag out instead of 1 at a time.</li>
-                <li>Fixed: Notch Nook spacing issues when music is playing with other modules enabled.</li>
-                <li>Fixed: Squeak gestures not working on mac dock if option to automatically hide dock is on.</li>
-                <li>Fixed: Spark Energy Impact graph not properly reporting correct usage sometimes.</li>
-                <li>Fixed: Chomp empty trash option sometimes not fully emptying.</li>
-              </ul>
-              <p><br>More to come.<br><br>
-              — Thank you for all the support & feedback!</p>
+                <h1>Habitat V0.3</h1>
+                <h4>Changelog</h4>
+                <li>Added: NEW TOOL!!! SNAP! Screenshots for windows, areas, screens, scrolling, & Recordings!</li>
+                <li>Added: Squeak Cursor Tools! Now features a quick action dial menu.</li>
+                <li>Added: Spark keep awake settings for Macbook’s, Macs, and connected external displays.</li>
+                <li>Added: New icons! Also changes icon in applications folder now.</li>
+                <li>Improved: Chomp junk cleaner is now redesigned slightly and more thorough at finding unnecessary files.</li>
+                <li>Improved: Grid spacing presets in trackpad gestures.</li>
+                <li>Improved: Background cpu usage increasing over long periods of time.</li>
+                <li>Improved: Leap dock preview works with less stutters and computer resources.</li>
+                <li>Improved: Echo cmd+x cut now makes sound effect outside of finder. Also changed sound effect.</li>
+                <li>Improved: Burrow folder preview pane in finder.</li>
+                <li>Improved: Setup screens permissions transparency. Now includes more permissions at start.</li>
+                <li>Fixed: Squeak input listener not working after immediately opening the tool inside Habitat.</li>
+                <li>Fixed: Leap window preview showing even when doing quick commands.</li>
+                <li>Fixed: Leap dock previews not showing if switching position of the Mac’s dock.</li>
+                <li>Removed: Chomp experimental quitter section under advanced features. No longer needed.</li>
+                </ul>
+                <p><br>More to come.<br><br>
+                — Thank you for all the support & feedback!</p>
             ]]></description>
-          </item>
+            </item>
         </channel>
-      </rss>
+        </rss>

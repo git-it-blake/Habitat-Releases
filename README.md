@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="screenshots/habitat%20icons/Habitat%20Menubar%20Icon.png" width="160" alt="Habitat menu bar icon">
+  <img src="Images/habitat%20icons/Habitat%20Menubar%20Icon.png" width="160" alt="Habitat menu bar icon">
 </p>
 
 <h1 align="center">Habitat</h1>
 
 <p align="center">
   The ecosystem your Mac's been missing.<br>
+  Everyday Mac utilities in one native app — no Electron, no subscriptions.
 </p>
 
 <p align="center">
@@ -25,7 +26,7 @@
   <a href="https://github.com/git-it-blake/Habitat-Releases/releases"><img src="https://img.shields.io/github/downloads/git-it-blake/Habitat-Releases/total?style=for-the-badge&label=Downloads&color=brightgreen" alt="Downloads" width="128" /></a>
 </p>
 
-**Habitat** is a native macOS utility suite that brings together the everyday tools you need to manage, optimize, and protect your Mac — all inside a single, beautifully designed app. No Electron. No subscriptions. Just a fast, lightweight SwiftUI app.
+**Habitat** is a native macOS utility suite that brings together the everyday tools you need to manage, optimize, and protect your Mac — all inside a single, beautifully designed app. No Electron. No subscriptions. Just a fast, lightweight SwiftUI app that lives in your Dock and menu bar.
 
 <p align="center">
   <img src="screenshots/habitat-home.png" alt="Habitat home dashboard with featured tools" width="720"/>
@@ -33,7 +34,7 @@
 
 ## Tools
 
-Habitat is organized into nine purpose-built tools, each named after an animal or element that reflects its personality.
+Habitat is organized into ten purpose-built tools, each named after an animal or element that reflects its personality.
 
 ### Chomp
 
@@ -45,9 +46,24 @@ Chomp keeps your Mac feeling light and clean. Scan your disk with a visual Stora
 - **Storage Orbit:** Visualizes disk usage using an interactive cluster of files.
 - **Smart Quitter:** Automatically stops background app threads when the last window is closed.
 
-<p align="center">
-  <img src="screenshots/chomp-cleaner.png" alt="Chomp Cleaner tab with selected apps and related files for removal" width="720"/>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Chomp-Cleaner-Apps.png" alt="Chomp Cleaner — uninstall apps and related files" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Chomp-Cleaner-Junk.png" alt="Chomp Cleaner — scan and clean junk" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Chomp-Scanner.png" alt="Chomp Storage Orbit scanner" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Chomp-Quitter.png" alt="Chomp Smart Quitter" />
+    </td>
+  </tr>
+</table>
 
 ### Squeak
 
@@ -59,9 +75,21 @@ Take absolute control over your mouse and trackpad. Map side mouse buttons to cu
 - **Mouse Gestures:** Set side buttons to trigger Mission Control, swiping Spaces, or clipboard history.
 - **Mouse Jiggler:** Keeps your Mac active during long rendering operations or code compiling.
 
-<p align="center">
-  <img src="screenshots/squeak-trackpad-gestures.png" alt="Squeak Trackpad Gestures settings for title-bar window management" width="720"/>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Squeak-Trackpad-Gestures.png" alt="Squeak Trackpad Gestures for title-bar window management" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Squeak-Mouse-Settings.png" alt="Squeak Mouse Settings with button mapping and scrolling" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="screenshots/Squeak-Cursor-Tools.png" alt="Squeak Cursor Tools" width="50%" />
+    </td>
+  </tr>
+</table>
 
 ### Spark
 
@@ -73,9 +101,21 @@ Spark gives you a clear window into your Mac's battery health and power utilizat
 - **Battery History:** Log and check system battery charts over any 24-hour cycle.
 - **Menu Bar Items:** Show custom stats, draw percentage, or customized indicators.
 
-<p align="center">
-  <img src="screenshots/spark-battery.png" alt="Spark Battery tab with charge ring, specs, power modes, and 24-hour graphs" width="720"/>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Spark-Battery.png" alt="Spark Battery tab with charge ring, specs, power modes, and 24-hour graphs" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Spark-Energy.png" alt="Spark Energy tab with per-app power utilization" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="screenshots/Spark-Behaviour.png" alt="Spark Behaviour tab with menu bar items and power settings" width="50%" />
+    </td>
+  </tr>
+</table>
 
 ### Hoo
 
@@ -87,9 +127,21 @@ Monitor your Mac's outgoing connections in real-time. Hoo geolocates destination
 - **Process Logs:** View connection threads filtered by specific active applications.
 - **100% Local Checkup:** All resolves and tracking run privately without external servers.
 
-<p align="center">
-  <img src="screenshots/hoo-watch.png" alt="Hoo Watch mode with geolocated connections on a world map and side summaries" width="720"/>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Hoo-Watch.png" alt="Hoo Watch mode with geolocated connections on a world map and side summaries" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Hoo-Monitor.png" alt="Hoo Monitor with process connection logs" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="screenshots/Hoo-Toolkit.png" alt="Hoo Toolkit" width="50%" />
+    </td>
+  </tr>
+</table>
 
 ### Boa
 
@@ -101,9 +153,21 @@ Compress and encrypt files natively at speed. Boa supports ZIP/TAR archives, AES
 - **Encryption:** Lock files and archives with AES-256 password protection that stays on your Mac.
 - **File Converter:** Convert common file formats in place without sending anything to the cloud.
 
-<p align="center">
-  <img src="screenshots/boa-compression.png" alt="Boa File Compression with queue, preview, and zip options" width="720"/>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Boa-Compression.png" alt="Boa File Compression with queue, preview, and zip options" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Boa-Encryption.png" alt="Boa Encryption with AES-256 password protection" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="screenshots/Boa-Converter.png" alt="Boa File Converter" width="50%" />
+    </td>
+  </tr>
+</table>
 
 ### Echo
 
@@ -115,9 +179,21 @@ Rich searchable history for everything you copy. Echo runs silently in the backg
 - **Quick Filters:** Search and sort logs instantly by source program or content category.
 - **Flyout Clipboard:** View a popup clipboard on the fly using a keybind or menubar shortcut.
 
-<p align="center">
-  <img src="screenshots/echo-clipboard.png" alt="Echo History view with categories, search, and media preview" width="720"/>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Echo-Clipboard.png" alt="Echo History view with categories, search, and media preview" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Echo-Controls.png" alt="Echo Controls with filters and settings" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="screenshots/Echo-Menubar.png" alt="Echo menu bar clipboard flyout" width="50%" />
+    </td>
+  </tr>
+</table>
 
 ### Shadow
 
@@ -129,9 +205,16 @@ Shadow turns the notch space into an interactive files and settings dropdown dra
 - **Rest Break Reminders:** Setup full-screen timers (Biscuits) to limit long eye fatigue.
 - **Glass HUD:** Beautiful overlay graphics blending seamlessly into MacOS design.
 
-<p align="center">
-  <img src="screenshots/shadow-nook.png" alt="Shadow notch shelf with Now Playing and quick actions" width="720"/>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Shadow-Nook.png" alt="Shadow notch shelf with Now Playing and quick actions" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Shadow-Biscuits.png" alt="Shadow Biscuits rest-break reminders" />
+    </td>
+  </tr>
+</table>
 
 ### Burrow
 
@@ -144,7 +227,7 @@ Preview folder contents instantly without entering directories. Select any folde
 - **Archive Peek:** Browse zip folders without extracting files to disk.
 
 <p align="center">
-  <img src="screenshots/burrow-preview.png" alt="Burrow folder Quick Look preview with detailed file table" width="720"/>
+  <img src="screenshots/burrow-preview.png" alt="Burrow folder Quick Look preview with detailed file table" width="50%"/>
 </p>
 
 ### Leap
@@ -157,8 +240,29 @@ Leap is a bouncy frog window switcher that replaces the default app switcher wit
 - **Live Window Previews:** Browse open windows with thumbnails across apps, Spaces, and screens.
 - **Keyboard Actions:** Close, minimize, fullscreen, hide, or quit selected windows without leaving the switcher.
 
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Leap-Switcher.png" alt="Leap window switcher with live window thumbnails" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="screenshots/Leap-Dock-Preview.png" alt="Leap Dock preview" />
+    </td>
+  </tr>
+</table>
+
+### Snap
+
+*Screenshots & Recordings*
+
+Snap captures your screen without leaving Habitat. Drag a selection, click a window, grab a display, or stitch a scrolling page — stills or recordings, with a capture toolbar on a global shortcut.
+
+- **Selection, Window, Screen:** Capture or record a rectangle, an app window, or a whole display.
+- **Scrolling Capture:** Auto-scroll and stitch a long page into one still.
+- **Capture Toolbar:** A global shortcut opens a compact picker on the display under your pointer.
+
 <p align="center">
-  <img src="screenshots/Leap-navigation.png" alt="Leap window switcher with live window thumbnails" width="720"/>
+  <img src="screenshots/Snap-Capture.png" alt="Snap Capture tab with screenshot and recording modes" width="50%"/>
 </p>
 
 ## Menu Bar
@@ -193,12 +297,13 @@ Habitat integrates with the macOS menu bar without getting in the way:
 - **macOS 26.0 (Tahoe)** or later
 - **Apple Silicon** (arm64)
 - **Accessibility permission** — required for Squeak's mouse controls, trackpad title-bar gestures, window management, and Chomp's window-aware quitter.
+- **Screen Recording permission** — required for Snap screenshots, recordings, and scrolling capture.
 
 ## Installation
 
 1. Download the latest release from the [Releases](../../releases) page.
 2. Open the `.dmg` and drag **Habitat** to your Applications folder.
-3. On first launch, macOS will prompt for access in **System Settings → Privacy & Security → Accessibility** (and optionally **Input Monitoring** / **Automation** depending on which tools you enable).
+3. On first launch, macOS will prompt for access in **System Settings → Privacy & Security → Accessibility** (and optionally **Screen Recording**, **Input Monitoring**, or **Automation** depending on which tools you enable).
 
 Habitat ships with [Sparkle](https://sparkle-project.org) for automatic updates — you can also trigger a check manually from **Habitat → Check for Updates** (menu bar) or **Settings → Check for Updates** (in-app).
 
