@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/habitat%20icons/Habitat%20Menubar%20Icon.png" width="160" alt="Habitat menu bar icon">
+  <img src="screenshots/habitat%20icons/Habitat%20Menubar%20Icon.png" width="160" alt="Habitat menu bar icon">
 </p>
 
 <h1 align="center">Habitat</h1>
