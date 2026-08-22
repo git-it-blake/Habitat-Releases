@@ -8,7 +8,7 @@
             <sparkle:version>38</sparkle:version>
             <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/git-it-blake/Habitat-Releases/main/Habitat.dmg" length="99974526" type="application/octet-stream" sparkle:edSignature="SAWkz8PRZ3nTJE9Dnfz3gBpHvu3RzXZT/o5XarkaSiLCsE1x8/+m03Kl9Z3iRY+OjzdriDupfpp/qFb/f0tMBw=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.3.1/Habitat.dmg" length="99974526" type="application/octet-stream" sparkle:edSignature="SAWkz8PRZ3nTJE9Dnfz3gBpHvu3RzXZT/o5XarkaSiLCsE1x8/+m03Kl9Z3iRY+OjzdriDupfpp/qFb/f0tMBw=="/>
             <description><![CDATA[
                 <h1>Habitat V0.3.1</h1>
                 <h4>Changelog</h4>
