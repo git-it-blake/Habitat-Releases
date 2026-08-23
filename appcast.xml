@@ -3,22 +3,17 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.3.1</title>
-            <pubDate>Sat, 22 Aug 2026 14:09:14 -0400</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <title>0.3.2</title>
+            <pubDate>Sun, 23 Aug 2026 02:53:58 -0400</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.3.1/Habitat.dmg" length="99974526" type="application/octet-stream" sparkle:edSignature="SAWkz8PRZ3nTJE9Dnfz3gBpHvu3RzXZT/o5XarkaSiLCsE1x8/+m03Kl9Z3iRY+OjzdriDupfpp/qFb/f0tMBw=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.3.2/Habitat.dmg" length="99959882" type="application/octet-stream" sparkle:edSignature="PO0nzGzIoXbwNmB3LxEKkUmwpE+g6bFeKdhyT4ZEKZTCftZWlezpc/bzElSZRdHU/r/ERA1p9wYHmwLt20dOCA=="/>
             <description><![CDATA[
-                <h1>Habitat V0.3.1</h1>
+                <h1>Habitat V0.3.2</h1>
                 <h4>Changelog</h4>
-                <li>Added: Mini games! Because why not?</li>
-                <li>Improved: Main Navigation. All tools are now listed on home page and tools tab turned into Score. A mini games section.</li>
-                <li>Improved: While screenshot selection or window is active, hitting space no longer effects background app you’re screenshotting.</li>
-                <li>Improved: Renamed Biscuits to Screen Tools, and a couple other features for better clarity.</li>
-                <li>Improved: Now able to edit another mouse’s buttons instead of active mouse in squeak settings.</li>
-                <li>Fixed: Recording a window now properly shows cursor after selecting it, and no longer keeps blue outline on top of window.</li>
-                <li>Fixed: Leap tool page scrolling brace was off compared to other tools inside Habitat.</li>
+                <li>Added: Echo clipboard now has option to choose which apps to not copy text from.</li>
+                <li>Fixed: Auto scrolling screenshot scrolled super far per tick. Shouldn’t do that now.</li>
                 </ul>
                 <p><br>More to come.<br><br>
                 — Thank you for all the support & feedback!</p>
