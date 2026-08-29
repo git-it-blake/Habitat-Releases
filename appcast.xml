@@ -3,17 +3,22 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.3.2</title>
-            <pubDate>Sun, 23 Aug 2026 02:53:58 -0400</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <title>0.4</title>
+            <pubDate>Sat, 29 Aug 2026 02:25:37 -0400</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.3.2/Habitat.dmg" length="99959882" type="application/octet-stream" sparkle:edSignature="PO0nzGzIoXbwNmB3LxEKkUmwpE+g6bFeKdhyT4ZEKZTCftZWlezpc/bzElSZRdHU/r/ERA1p9wYHmwLt20dOCA=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.4/Habitat.dmg" length="121449360" type="application/octet-stream" sparkle:edSignature="boW8zL2g33AOF4NkQExHp85oSBZ30k2acEX53oUELARkJ/JpbIvwNzSbLyKqPhtx2yy/OZPxE6n1li5nxPfnAw=="/>
             <description><![CDATA[
-                <h1>Habitat V0.3.2</h1>
+                <h1>Habitat V0.4</h1>
                 <h4>Changelog</h4>
-                <li>Added: Echo clipboard now has option to choose which apps to not copy text from.</li>
-                <li>Fixed: Auto scrolling screenshot scrolled super far per tick. Shouldn’t do that now.</li>
+                <li>Added: Added: New Tool!! Wave! The audio mixer that lets you easily output to multiple devices at once. Have a custom EQ for every app, headphone and speaker!</li>
+                <li>Improved: Menubar icon tools redesigned! Only Chomp and Wave have quick tools at the moment, others to come in the future.</li>
+                <li>Improved: Nook scrub bar, volume controls, and media recognition all added to the nook!</li>
+                <li>Improved: Snap screen recordings now have option to separate audio tracks for mic and system audio.</li>
+                <li>Improved: Keep awake toggle in spark menubar behavior.</li>
+                <li>Fixed: Echo video aspect previews.</li>
+                <li>Fixed: Input delay from switching spaces with a mouse.</li>
                 </ul>
                 <p><br>More to come.<br><br>
                 — Thank you for all the support & feedback!</p>
