@@ -34,7 +34,7 @@
 
 ## Tools
 
-Habitat is organized into ten purpose-built tools, each named after an animal or element that reflects its personality.
+Habitat is organized into eleven purpose-built tools, each named after an animal or element that reflects its personality.
 
 ### Chomp
 
@@ -64,6 +64,21 @@ Chomp keeps your Mac feeling light and clean. Scan your disk with a visual Stora
     </td>
   </tr>
 </table>
+
+### Wave
+
+*Audio Mixer & Routing*
+
+Wave is Habitat’s per-app mixer. Set volume for each app, send one to headphones and another to speakers, shape the current output with a 10-band EQ, and bind a shortcut to jump outputs. When headphones unplug, Wave can duck built-in speaker volume so you are not blasted.
+
+- **Per-app mixer:** Independent volume and mute for every app that is making sound.
+- **Multi-output routing:** Send one app to a single device or several at once.
+- **EQ and headphones:** 10-band EQ, loudness compensation, and headphone correction curves.
+- **Shortcuts and ducking:** Cycle outputs from the keyboard, and lower volume when headphones disconnect.
+
+<p align="center">
+  <img src="screenshots/Wave-Audio.png" alt="Wave per-app audio mixer with output routing, input controls, and live visualizers" width="50%"/>
+</p>
 
 ### Squeak
 
@@ -272,6 +287,7 @@ Habitat integrates with the macOS menu bar without getting in the way:
 - **Habitat main icon** — Click for a native-feeling dropdown with a **dashboard shortcut**, per-tool quick opens, About, and Check for Updates. The dropdown uses a transparent divot-arrow panel that matches the rest of macOS HUDs.
 - **Spark battery** — Optional live charge / time-remaining indicator with customizable glyph styles.
 - **Echo clipboard** — Optional quick-access popover for your clipboard history with hover previews that fly in and out smoothly as you move between items.
+- **Wave mixer** — Optional compact controls for outputs, inputs, per-app volume, and live audio meters.
 
 ## Pro & Trial
 
@@ -298,12 +314,13 @@ Habitat integrates with the macOS menu bar without getting in the way:
 - **Apple Silicon** (arm64)
 - **Accessibility permission** — required for Squeak's mouse controls, trackpad title-bar gestures, window management, and Chomp's window-aware quitter.
 - **Screen Recording permission** — required for Snap screenshots, recordings, and scrolling capture.
+- **Screen & System Audio permission** — required when Wave’s per-app audio mixer is enabled.
 
 ## Installation
 
 1. Download the latest release from the [Releases](../../releases) page.
 2. Open the `.dmg` and drag **Habitat** to your Applications folder.
-3. On first launch, macOS will prompt for access in **System Settings → Privacy & Security → Accessibility** (and optionally **Screen Recording**, **Input Monitoring**, or **Automation** depending on which tools you enable).
+3. On first launch, macOS will prompt for access in **System Settings → Privacy & Security → Accessibility** (and optionally **Screen & System Audio**, **Input Monitoring**, or **Automation** depending on which tools you enable).
 
 Habitat ships with [Sparkle](https://sparkle-project.org) for automatic updates — you can also trigger a check manually from **Habitat → Check for Updates** (menu bar) or **Settings → Check for Updates** (in-app).
 
