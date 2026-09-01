@@ -3,27 +3,19 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.4.1</title>
-            <pubDate>Sat, 29 Aug 2026 22:53:10 -0400</pubDate>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <title>0.4.2</title>
+            <pubDate>Tue, 01 Sep 2026 14:38:31 -0400</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.4.1/Habitat.dmg" length="121510168" type="application/octet-stream" sparkle:edSignature="fRuTJIIlDMKEZJyDCEOqLsSit/DKpewpsblGd1jsZqU7MW+lfKqyUTHn62xtabXkv0cHPsLq929SPMMwJ3+CDA=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.4.2/Habitat.dmg" length="121463010" type="application/octet-stream" sparkle:edSignature="6SlvsZpfwiWhlCP1vCX114ehyuRHOFdAoiobYxOVKb0tsKTA4RMhacbvv8fy6zXJwPhtqQKyN6ko99GqFvHvDQ=="/>
             <description><![CDATA[
-                <h1>Habitat V0.4.1</h1>
+                <h1>Habitat V0.4.2</h1>
                 <h4>Changelog</h4>
-                <li>Fixed: Permissions fix for audio controls.</li>
-                </ul>
-                
-                <h1>Habitat V0.4</h1>
-                <h4>Changelog</h4>
-                <li>Added: Added: New Tool!! Wave! The audio mixer that lets you easily output to multiple devices at once. Have a custom EQ for every app, headphone and speaker!</li>
-                <li>Improved: Menubar icon tools redesigned! Only Chomp and Wave have quick tools at the moment, others to come in the future.</li>
-                <li>Improved: Nook scrub bar, volume controls, and media recognition all added to the nook!</li>
-                <li>Improved: Snap screen recordings now have option to separate audio tracks for mic and system audio.</li>
-                <li>Improved: Keep awake toggle in spark menubar behavior.</li>
-                <li>Fixed: Echo video aspect previews.</li>
-                <li>Fixed: Input delay from switching spaces with a mouse.</li>
+                <li>Fixed: Notch Nook not dismissing sometimes when interacting with it.</li>
+                <li>Fixed: Wave recognizing old app drivers / plugins from uninstalled apps.</li>
+                <li>Fixed: Wave no longer requires system audio permissions.</li>
+                <li>Fixed: Snap cursor not following were selection area was dragged to.</li>
                 </ul>
                 <p><br>More to come.<br><br>
                 — Thank you for all the support & feedback!</p>
