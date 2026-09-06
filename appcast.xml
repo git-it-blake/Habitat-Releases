@@ -3,19 +3,19 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.4.2</title>
-            <pubDate>Tue, 01 Sep 2026 14:38:31 -0400</pubDate>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <title>0.4.3</title>
+            <pubDate>Sun, 06 Sep 2026 16:08:27 -0400</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.4.2/Habitat.dmg" length="121463010" type="application/octet-stream" sparkle:edSignature="6SlvsZpfwiWhlCP1vCX114ehyuRHOFdAoiobYxOVKb0tsKTA4RMhacbvv8fy6zXJwPhtqQKyN6ko99GqFvHvDQ=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.4.3/Habitat.dmg" length="121524302" type="application/octet-stream" sparkle:edSignature="V7sdwbbUu6ItRIec0rJsSZO0K1dbEXXkAhL1xB5DaLJJKU08h4TqRvQrryOmd0leA4ODNq2vjgjfenz3uFwUBg=="/>
             <description><![CDATA[
-                <h1>Habitat V0.4.2</h1>
+                <h1>Habitat V0.4.3</h1>
                 <h4>Changelog</h4>
-                <li>Fixed: Notch Nook not dismissing sometimes when interacting with it.</li>
-                <li>Fixed: Wave recognizing old app drivers / plugins from uninstalled apps.</li>
-                <li>Fixed: Wave no longer requires system audio permissions.</li>
-                <li>Fixed: Snap cursor not following were selection area was dragged to.</li>
+                <li>Improved: Notch Nook now auto switches media controls to active media if multiple sources are playing and one is then paused.</li>
+                <li>Fixed: Window recording Habitat app would sometimes fail.</li>
+                <li>Fixed: Mic input no longer shows when recording if no mic is selected.</li>
+                <li>Fixed: Trackpad toggles sometimes showing as disabled even though they weren’t.</li>
                 </ul>
                 <p><br>More to come.<br><br>
                 — Thank you for all the support & feedback!</p>
