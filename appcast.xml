@@ -3,19 +3,21 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.4.3</title>
-            <pubDate>Sun, 06 Sep 2026 16:08:27 -0400</pubDate>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <title>0.5</title>
+            <pubDate>Thu, 17 Sep 2026 13:13:35 -0400</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.4.3/Habitat.dmg" length="121524302" type="application/octet-stream" sparkle:edSignature="V7sdwbbUu6ItRIec0rJsSZO0K1dbEXXkAhL1xB5DaLJJKU08h4TqRvQrryOmd0leA4ODNq2vjgjfenz3uFwUBg=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.5/Habitat.dmg" length="121297305" type="application/octet-stream" sparkle:edSignature="AIAnZ68E9A4Lhw79XYUBeYjoBOn/x/OaRQNAuXj2BDZ0Tp29u1T3NTqtXXIl44pb8levfe8dfjdMaPx1mRXECw=="/>
             <description><![CDATA[
-                <h1>Habitat V0.4.3</h1>
+                <h1>Habitat V0.5</h1>
                 <h4>Changelog</h4>
-                <li>Improved: Notch Nook now auto switches media controls to active media if multiple sources are playing and one is then paused.</li>
-                <li>Fixed: Window recording Habitat app would sometimes fail.</li>
-                <li>Fixed: Mic input no longer shows when recording if no mic is selected.</li>
-                <li>Fixed: Trackpad toggles sometimes showing as disabled even though they weren’t.</li>
+                <li>New: Updated compatibility with MacOS 27!</li>
+                <li>Improved: Wave audio sliders in menubar for inputs & outputs now have uniform size.</li>
+                <li>Improved: Wave ARK audio recognition. Starts and stops based on audio.</li>
+                <li>Improved: Notch nook now only shows on hover when over the black area, rather than just near the nook to prevent accidental openings.</li>
+                <li>Fixed: Notch Nook showing audio visualizer for random apps sometimes even though no audio was playing.</li>
+                <li>Fixed: Some Squeak mouse gestures not working on MacOS 27.</li>
                 </ul>
                 <p><br>More to come.<br><br>
                 — Thank you for all the support & feedback!</p>
