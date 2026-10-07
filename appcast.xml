@@ -3,21 +3,35 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.5</title>
-            <pubDate>Thu, 17 Sep 2026 13:53:33 -0400</pubDate>
-            <sparkle:version>46</sparkle:version>
-            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+            <title>0.6</title>
+            <pubDate>Tue, 06 Oct 2026 23:50:53 -0400</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.5/Habitat.dmg" length="121290806" type="application/octet-stream" sparkle:edSignature="poCrs9SyMA2HIf3yjzBXyb2rKEdQQjT1DMg7eLNQI2hQGkV1qdR9xB+HmxF1r0nDj8nhraaXpIsD2KjDPg5kCw=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.6/Habitat.dmg" length="126423403" type="application/octet-stream" sparkle:edSignature="TdLdUxAn/pn3wCz28KJwzE/aanv3N6V+t92VttkxuIDUTDwfToAU0cdLu0xkYqMuWBUiBEy72B3SZk0ygk6LDw=="/>
             <description><![CDATA[
-                <h1>Habitat V0.5</h1>
+                <h1>Habitat V0.6</h1>
                 <h4>Changelog</h4>
-                <li>New: Updated compatibility with MacOS 27!</li>
-                <li>Improved: Wave audio sliders in menubar for inputs & outputs now have uniform size.</li>
-                <li>Improved: Wave ARK audio recognition. Starts and stops based on audio.</li>
-                <li>Improved: Notch nook now only shows on hover when over the black area, rather than just near the nook to prevent accidental openings.</li>
-                <li>Fixed: Notch Nook showing audio visualizer for random apps sometimes even though no audio was playing.</li>
-                <li>Fixed: Some Squeak mouse gestures not working on MacOS 27.</li>
+                <li>Added: Leap now has a separate customizable Dock from the native MacOS one. Have a second dock, or replace the original with features like widgets, smart stacks and App folders!</li>
+                <li>Added: A launchpad with multi view options and order customization! Replaces the native MacOS launchpad if toggled on.</li>
+                <li>Added: Folder customization! Burrow now features a way to customize and personalize folders across MacOS!</li>
+                <li>Added: IPhone Duo animation for the Macbook lid closing is now in Shadow Screen tools!</li>
+                <li>Added: Toggle in Squeak that makes the green stoplight button maximize windows instead of fullscreen.</li>
+                <li>Improved: Spark menubar icon stat graphs now update more efficiently.</li>
+                <li>Improved: Chomp Junk cleaner file search and removal.</li>
+                <li>Improved: Snap toolbar can now be dragged around.</li>
+                <li>Improved: Squeak minimize gesture no longer focuses the app minimized.</li>
+                <li>Improved: Notch Nook reworked with more tools and features from Habitat, system, & more.</li>
+                <li>Improved: Shadow Biscuits no longer write anywhere to help it redraw, now only updates when something changes.</li>
+                <li>Improved: Echo’s clipboard list and Spark’s energy list no longer look up each apps icon again on every redraw.</li>
+                <li>Improved: Echo’s clipboard can now be dragged around.</li>
+                <li>Improved: Language Localization for existing languages.</li>
+                <li>Fixed: Notch Nook not being correct height on built-in Macbook displays while other monitors were focused.</li>
+                <li>Fixed: Spark battery temperature graph sometimes reporting same temperature repeatedly instead of updating.</li>
+                <li>Fixed: Home page video carousel scrolling stutters.</li>
+                <li>Fixed: Mission control gesture being backwards sometimes.</li>
+                <li>Fixed: Snap auto scroll screenshot option sometimes failing.</li>
+                <li>Fixed: Squeak dock gestures activating on space around dock in blank space.</li>
                 </ul>
                 <p><br>More to come.<br><br>
                 — Thank you for all the support & feedback!</p>
