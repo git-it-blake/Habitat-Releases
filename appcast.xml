@@ -3,35 +3,22 @@
     <channel>
         <title>Habitat</title>
         <item>
-            <title>0.6</title>
-            <pubDate>Tue, 06 Oct 2026 23:50:53 -0400</pubDate>
-            <sparkle:version>47</sparkle:version>
-            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
+            <title>0.6.1</title>
+            <pubDate>Fri, 06 Nov 2026 14:08:34 -0500</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.6/Habitat.dmg" length="126423403" type="application/octet-stream" sparkle:edSignature="TdLdUxAn/pn3wCz28KJwzE/aanv3N6V+t92VttkxuIDUTDwfToAU0cdLu0xkYqMuWBUiBEy72B3SZk0ygk6LDw=="/>
+            <enclosure url="https://github.com/git-it-blake/Habitat-Releases/releases/download/v0.6.1/Habitat.dmg" length="126553313" type="application/octet-stream" sparkle:edSignature="4sivfuLCPp/gNwsisfdsRhOZogwBFk6B2oZu/VyrdH9ZiZaLfo2oX/9ZdccPTGDVkSQXSSOOe2lNqgjXBZuXDA=="/>
             <description><![CDATA[
-                <h1>Habitat V0.6</h1>
+                <h1>Habitat V0.6.1</h1>
                 <h4>Changelog</h4>
-                <li>Added: Leap now has a separate customizable Dock from the native MacOS one. Have a second dock, or replace the original with features like widgets, smart stacks and App folders!</li>
-                <li>Added: A launchpad with multi view options and order customization! Replaces the native MacOS launchpad if toggled on.</li>
-                <li>Added: Folder customization! Burrow now features a way to customize and personalize folders across MacOS!</li>
-                <li>Added: IPhone Duo animation for the Macbook lid closing is now in Shadow Screen tools!</li>
-                <li>Added: Toggle in Squeak that makes the green stoplight button maximize windows instead of fullscreen.</li>
-                <li>Improved: Spark menubar icon stat graphs now update more efficiently.</li>
-                <li>Improved: Chomp Junk cleaner file search and removal.</li>
-                <li>Improved: Snap toolbar can now be dragged around.</li>
-                <li>Improved: Squeak minimize gesture no longer focuses the app minimized.</li>
-                <li>Improved: Notch Nook reworked with more tools and features from Habitat, system, & more.</li>
-                <li>Improved: Shadow Biscuits no longer write anywhere to help it redraw, now only updates when something changes.</li>
-                <li>Improved: Echo’s clipboard list and Spark’s energy list no longer look up each apps icon again on every redraw.</li>
-                <li>Improved: Echo’s clipboard can now be dragged around.</li>
-                <li>Improved: Language Localization for existing languages.</li>
-                <li>Fixed: Notch Nook not being correct height on built-in Macbook displays while other monitors were focused.</li>
-                <li>Fixed: Spark battery temperature graph sometimes reporting same temperature repeatedly instead of updating.</li>
-                <li>Fixed: Home page video carousel scrolling stutters.</li>
-                <li>Fixed: Mission control gesture being backwards sometimes.</li>
-                <li>Fixed: Snap auto scroll screenshot option sometimes failing.</li>
-                <li>Fixed: Squeak dock gestures activating on space around dock in blank space.</li>
+                <li>Added: Trackpad Edges! Squeak now features a new section in trackpad gestures to drag your finger along the edges of the trackpad to adjust brightness, volume, keyboard backlight, and more.</li>
+                <li>Added: Support for Macbook Proled notch with the notch nook capsule.</li>
+                <li>Improved: Leap dock folder size now matches other icons, and improved the docks reappearing timing when switching between spaces.</li>
+                <li>Improved: Performance of Spark menubar icon dropdown. Stats and animations now use less resources.</li>
+                <li>Fixed: Chomp Junk cleaner trash not listing items.</li>
+                <li>Fixed: Notch nook dismissal animation sometimes breaking or looking broken. Also fixed tool cards animation sometimes breaking when switching between each.</li>
+                <li>Fixed: Startup permissions showing when setting up Habitat for the first time or after an update sometimes.</li>
                 </ul>
                 <p><br>More to come.<br><br>
                 — Thank you for all the support & feedback!</p>
